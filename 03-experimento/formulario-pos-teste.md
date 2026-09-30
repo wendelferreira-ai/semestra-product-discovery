@@ -1,6 +1,8 @@
 # Formulário Pós-Teste (Google Forms ou Tally — ~2 min)
 
-Crie o formulário com as perguntas abaixo. Cada uma está ligada a uma hipótese — é isso que permite a comparação no final.
+**🔗 Formulário publicado:** https://forms.gle/GGrQ9eAWoShbxEmYA
+
+Cada pergunta está ligada a uma hipótese — é isso que permite a comparação no final.
 
 **Título:** Semestra — como foi seu cronograma?
 **Descrição:** Trabalho acadêmico. Respostas anônimas, usadas só para a análise do projeto.
@@ -23,6 +25,8 @@ Ao final: **Exportar respostas → CSV** e salvar em `04-evidencias/respostas-fo
 ---
 
 # Formulário da Landing Page ("Quero testar")
+
+**🔗 Formulário publicado:** https://forms.gle/3hJqEJfrtpG2Tf337
 
 Formulário separado e curto, linkado no botão da landing page:
 

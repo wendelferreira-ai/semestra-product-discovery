@@ -36,7 +36,11 @@ Salve prints da conversa (esconda nome/foto) em `04-evidencias/prints/`.
 
 ## Parte D — Pós-uso (domingo)
 
-Envie o link do formulário (`formulario-pos-teste.md`). Quem não responder até segunda de manhã: 1 lembrete.
+Envie o link do formulário com o código da pessoa:
+
+"Oi! Como foi com o cronograma? Me ajuda respondendo esse formulário rapidinho (2 min): https://forms.gle/GGrQ9eAWoShbxEmYA — seu código é **P0_**. Valeu!"
+
+Quem não responder até segunda de manhã: 1 lembrete.
 
 ---
 
