@@ -7,7 +7,7 @@ Textos usados: [mensagens-whatsapp.md](../03-experimento/mensagens-whatsapp.md)
 
 | # | Data / hora | Canal | Público estimado | Mensagem usada | Evidência |
 |---|---|---|---|---|---|
-| D1 | 30/09/2026 12:44 | Grupo de WhatsApp da turma de IA (faculdade) | [nº de participantes do grupo] | Post completo (seção 1), com prévia da página gerada pelo WhatsApp | [print](prints/2026-09-30_divulgacao-grupo-turma.png) |
+| D1 | 30/09/2026 12:44 | Grupo de WhatsApp da turma de IA (faculdade) 30 membros (29 além do autor) — [print](prints/2026-09-30_grupo-turma-30-membros.png) | Post completo (seção 1), com prévia da página gerada pelo WhatsApp | [print](prints/2026-09-30_divulgacao-grupo-turma.png) |
 | | | | | | |
 
 > Prints publicados são recortados para mostrar só a própria postagem — sem nome do grupo, telefones ou mensagens de outros participantes. Originais ficam em `brutos/` (fora do Git).
@@ -26,6 +26,12 @@ Anote uma vez por dia (print do painel do bit.ly + contagem de respostas do Form
 | 05/10 (final) | | | | |
 
 **Conversão = inscrições ÷ cliques.** Meta H3: ≥ 20%.
+
+**Alcance do grupo = inscrições ÷ 29 membros alcançáveis** (métrica complementar, já que o plano gratuito do bit.ly não libera cliques via API).
+
+| Data / hora | Fonte | Leitura |
+|---|---|---|
+| 30/09 ~16:05 | Google Forms "Quero testar" (editor) | 0 inscrições (~3h20 após o post) |
 
 ## Observações qualitativas do grupo
 Reações, dúvidas e comentários que aparecerem no grupo (anonimizados):
