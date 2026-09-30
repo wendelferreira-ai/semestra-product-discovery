@@ -26,7 +26,7 @@ Detalhes, MVP e regra de decisão: [01-parte-teorica.md](01-parte-teorica.md) ·
 1. Entrevista de problema (sem mencionar a solução) → [roteiro](03-experimento/roteiro-entrevista.md)
 2. O aluno envia o plano de ensino; eu gero o cronograma com IA ([prompt](03-experimento/prompt-concierge.md)), confiro as datas e devolvo tabela + arquivo `.ics`
 3. Formulário pós-uso após 2–3 dias → [perguntas](03-experimento/formulario-pos-teste.md)
-4. Em paralelo: [landing page](03-experimento/landing-page/index.html) divulgada em grupos de turma
+4. Em paralelo: [landing page](03-experimento/landing-page/index.html) divulgada em grupos de turma → [mensagens usadas](03-experimento/mensagens-whatsapp.md)
 
 ## 4. Evidências
 [PREENCHER — resumo: n participantes, cursos, datas. Link para [04-evidencias/](04-evidencias/). Inclua 2–3 prints anonimizados aqui.]
