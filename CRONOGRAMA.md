@@ -4,7 +4,7 @@ Estratégia para caber em 7 dias: **a mesma pessoa passa por entrevista de probl
 
 | Dia | Data | Tarefas | Saída |
 |---|---|---|---|
-| D0 | Qua 30/09 | Revisar hipóteses e critérios em `01-parte-teorica.md` (congelar antes de testar!). Configurar o Google Forms (`03-experimento/formulario-pos-teste.md`). Colocar o link do form na landing page e publicá-la. Convidar 10 colegas para uma conversa de 15 min. | Hipóteses congeladas, landing no ar, agenda marcada |
+| D0 | Qua 30/09 | Revisar hipóteses e critérios em `01-parte-teorica.md` (congelar antes de testar!). Configurar o Google Forms (`03-experimento/formulario-pos-teste.md`). Colocar o link do form na landing page (`FORM_URL` no `index.html`) e dar push — ela já é publicada automaticamente no GitHub Pages. Convidar 10 colegas para uma conversa de 15 min. | Hipóteses congeladas, landing no ar, agenda marcada |
 | D1 | Qui 01/10 | Entrevistas de problema (roteiro Parte A). Ao final, oferecer o concierge e pedir o plano de ensino. Divulgar a landing em 2–3 grupos de turma. | 5+ entrevistas anotadas em `04-evidencias/registro-testes.csv` |
 | D2 | Sex 02/10 | Rodar o `prompt-concierge.md` com cada plano de ensino, **conferir as datas manualmente**, entregar cronograma + .ics a cada pessoa. | Cronogramas entregues (prints salvos) |
 | D3–D4 | Sáb 03 – Dom 04/10 | Pessoas usam o cronograma. Enviar o formulário pós-teste no domingo. Lembrar quem não respondeu. | Respostas do formulário (CSV) |

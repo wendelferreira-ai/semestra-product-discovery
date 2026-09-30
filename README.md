@@ -3,7 +3,7 @@
 > Vale a pena construir um assistente de IA que transforma planos de ensino no cronograma do semestre? Este case documenta **uma semana** de hipóteses, experimento com usuários reais e a decisão baseada em evidências.
 
 **Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 – 07/10/2026
-**🎥 Vídeo pitch:** [LINK] · **🌐 Landing page:** [LINK]
+**🎥 Vídeo pitch:** [LINK] · **🌐 Landing page:** [wendelferreira-ai.github.io/semestra-product-discovery/03-experimento/landing-page/](https://wendelferreira-ai.github.io/semestra-product-discovery/03-experimento/landing-page/)
 
 ---
 
