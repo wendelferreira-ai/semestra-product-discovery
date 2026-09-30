@@ -6,6 +6,7 @@ Tudo que comprova que o experimento aconteceu com pessoas reais. Anonimize sempr
 
 | Arquivo / pasta | Conteúdo |
 |---|---|
+| `registro-divulgacao.md` | Onde e quando a landing foi divulgada + evolução diária de cliques e inscrições |
 | `registro-testes.csv` | Uma linha por participante, preenchida logo após a entrevista + concierge |
 | `respostas-formulario.csv` | Export do Google Forms pós-teste |
 | `landing-cliques.png` | Print do contador de cliques do link encurtado |
