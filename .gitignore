@@ -1,0 +1,10 @@
+# Material bruto de participantes — nunca publicar
+04-evidencias/brutos/
+*.ics
+
+# Sistema / editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.claude/
