@@ -2,7 +2,7 @@
 
 Use em qualquer assistente de IA generativa. Cole o prompt abaixo e, em seguida, o texto do(s) plano(s) de ensino (ou anexe o PDF).
 
-**Depois de gerar: confira TODAS as datas contra o plano original.** Registre no CSV quantas datas vieram certas/erradas — essa é a métrica de acurácia da H2.
+**Depois de gerar: confira TODAS as datas contra o plano original.** Registre no CSV quantas datas vieram certas/erradas: essa é a métrica de acurácia da H2.
 
 ---
 
@@ -28,7 +28,7 @@ Vou enviar um ou mais planos de ensino. Sua tarefa:
 
 5. CALENDÁRIO: gere o conteúdo de um arquivo .ics (iCalendar) válido com
    um evento de dia inteiro para cada item com data confirmada, contendo:
-   - SUMMARY: "[Disciplina] – [Tipo]: [descrição]"
+   - SUMMARY: "[Disciplina] - [Tipo]: [descrição]"
    - DESCRIPTION: peso e observações
    - Dois alarmes (VALARM): 7 dias antes e 1 dia antes.
    Não inclua itens "A CONFIRMAR" no .ics.

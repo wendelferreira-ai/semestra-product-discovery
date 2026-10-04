@@ -1,8 +1,8 @@
-# Canvas de Produto — Semestra
+# Canvas de Produto: Semestra
 
 > Versão **v1 (pré-teste)** = hipóteses. Após o experimento, crie a **v2** abaixo marcando o que foi ✅ confirmado, ❌ refutado ou ✏️ alterado. A diferença entre v1 e v2 é uma ótima evidência de aprendizado.
 
-## Lean Canvas — v1 (pré-teste)
+## Lean Canvas: v1 (pré-teste)
 
 | Bloco | Conteúdo |
 |---|---|
@@ -12,12 +12,12 @@
 | **3. Proposta de valor única** | "Mande seus planos de ensino e receba o semestre inteiro organizado no seu calendário em minutos." |
 | **4. Solução** | Extração por IA de datas/pesos dos planos de ensino; cronograma consolidado; alerta de semanas críticas; exportação para calendário (.ics). |
 | **5. Canais** | Grupos de WhatsApp de turma, centros acadêmicos, Instagram de cursos, indicação entre colegas. |
-| **6. Fontes de receita** | Freemium: 1º semestre grátis; plano premium (lembretes, sincronização contínua) ~R$ 5–10/mês. Possível B2B com instituições. |
+| **6. Fontes de receita** | Freemium: 1º semestre grátis; plano premium (lembretes, sincronização contínua) ~R$ 5-10/mês. Possível B2B com instituições. |
 | **7. Estrutura de custos** | Custo de API de IA por plano processado, hospedagem, tempo de desenvolvimento, aquisição de usuários. |
 | **8. Métricas-chave** | Planos processados por usuário, % de datas corretas, retenção no 2º semestre, conversão landing → cadastro. |
-| **9. Vantagem injusta** | (Ainda não existe — honesto dizer isso.) Potencial: base de planos de ensino por instituição que acelera novos usuários. |
+| **9. Vantagem injusta** | (Ainda não existe, e é honesto dizer isso.) Potencial: base de planos de ensino por instituição que acelera novos usuários. |
 
-## Value Proposition Canvas — v1
+## Value Proposition Canvas: v1
 
 ### Perfil do cliente
 | Tarefas (jobs) | Dores | Ganhos desejados |
@@ -35,5 +35,5 @@
 
 ---
 
-## Lean Canvas — v2 (pós-teste)
-[PREENCHER após o experimento — copie a tabela v1 e marque ✅ / ❌ / ✏️ em cada bloco com a evidência que justifica]
+## Lean Canvas: v2 (pós-teste)
+[PREENCHER após o experimento: copie a tabela v1 e marque ✅ / ❌ / ✏️ em cada bloco com a evidência que justifica]

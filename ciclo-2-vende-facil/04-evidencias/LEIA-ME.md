@@ -1,4 +1,4 @@
-# Evidências — Ciclo 2 (Vende Fácil)
+# Evidências: Ciclo 2 (Vende Fácil)
 
 Tudo que comprova que o experimento aconteceu com pessoas reais.
 
@@ -7,7 +7,7 @@ Tudo que comprova que o experimento aconteceu com pessoas reais.
 | [registro-testes.csv](registro-testes.csv) | Uma linha por convidado (V01, V02…): respostas de problema, preço da IA × mercado, publicou ou não |
 | `respostas-formulario.csv` | Export do formulário de avaliação |
 | `prints/` | Conversas (sem telefone e sem foto de perfil), anúncios entregues e **anúncios publicados** |
-| `brutos/` | Originais e fotos recebidas — **ignorado pelo Git, nunca publicado** |
+| `brutos/` | Originais e fotos recebidas, **ignorado pelo Git e nunca publicado** |
 
 ## Regras de privacidade (repositório público)
 - **Telefones sempre cobertos.** Nomes podem aparecer.

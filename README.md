@@ -1,15 +1,15 @@
-# Do Semestra ao Vende Fácil — Case de Product Discovery e Validação
+# Do Semestra ao Vende Fácil: Case de Product Discovery e Validação
 
 > Dois ciclos de hipótese → experimento → evidência → decisão em **uma semana**. O primeiro produto não gerou nenhum interesse e foi pivotado; o segundo foi testado com pessoas reais medindo **ação**, não opinião.
 
-**Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 – 07/10/2026
+**Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 a 07/10/2026
 **🎥 Vídeo pitch:** [LINK]
 
 ---
 
 ## Resumo em 30 segundos
 
-| | Ciclo 1 — Semestra | Ciclo 2 — Vende Fácil |
+| | Ciclo 1: Semestra | Ciclo 2: Vende Fácil |
 |---|---|---|
 | **Ideia** | IA transforma planos de ensino no cronograma do semestre | Manda a foto de algo parado em casa e recebe o preço e o anúncio prontos |
 | **Público** | Universitários | Família, amigos e colegas com itens parados |
@@ -19,7 +19,7 @@
 
 ---
 
-## Ciclo 1 — Semestra (30/09 a 04/10)
+## Ciclo 1: Semestra (30/09 a 04/10)
 
 **Problema:** universitários recebem prazos espalhados (PDF, AVA, WhatsApp) e são pegos de surpresa.
 **Hipótese de valor:** ≥ 20% dos visitantes da landing page se inscreveriam para testar.
@@ -37,7 +37,7 @@
 
 ---
 
-## Ciclo 2 — Vende Fácil (04/10 a 06/10)
+## Ciclo 2: Vende Fácil (04/10 a 06/10)
 
 ### Problema
 Quase toda casa tem objetos parados que o dono gostaria de vender, mas não vende por causa do **trabalho de começar**: descobrir o preço, escrever o anúncio, fotografar e negociar.

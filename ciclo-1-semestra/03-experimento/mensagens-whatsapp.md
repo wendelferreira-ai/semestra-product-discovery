@@ -3,8 +3,8 @@
 Link da landing: https://bit.ly/4xYE2R5 (redireciona para a página no GitHub Pages)
 
 **Dicas gerais**
-- Poste em horário de movimento (12h–13h ou 19h–21h).
-- Mande primeiro a mensagem **e depois** o link numa mensagem separada — o WhatsApp gera a prévia da página e passa mais confiança.
+- Poste em horário de movimento (12h-13h ou 19h-21h).
+- Mande primeiro a mensagem **e depois** o link numa mensagem separada: o WhatsApp gera a prévia da página e passa mais confiança.
 - Não mande o mesmo texto em vários grupos ao mesmo tempo sem ajustar a primeira linha (parece spam).
 - Registre em `04-evidencias/` o print de cada postagem (grupo borrado) + data/hora.
 
@@ -21,7 +21,7 @@ Link da landing: https://bit.ly/4xYE2R5 (redireciona para a página no GitHub Pa
 > Se tiver interesse, é só se inscrever aqui (leva 1 minutinho):
 > 👉 https://bit.ly/4xYE2R5
 >
-> 🔒 **Relaxa, não é vírus nem golpe!** O link é encurtado só pra eu contar quantas pessoas clicaram (faz parte da nota 😅). Ele abre uma página simples hospedada no **GitHub** — **não baixa nada, não pede senha nem login**. A inscrição é um **Google Forms** normal.
+> 🔒 **Relaxa, não é vírus nem golpe!** O link é encurtado só pra eu contar quantas pessoas clicaram (faz parte da nota 😅). Ele abre uma página simples hospedada no **GitHub**, **não baixa nada, não pede senha nem login**. A inscrição é um **Google Forms** normal.
 >
 > Qualquer dúvida, me chama no privado! Valeu demais 🙏
 
@@ -45,7 +45,7 @@ Link da landing: https://bit.ly/4xYE2R5 (redireciona para a página no GitHub Pa
 > https://wendelferreira-ai.github.io/semestra-product-discovery/03-experimento/landing-page/
 > É uma página no GitHub, sem download e sem login.
 
-*(Use o link completo só se alguém pedir — ele não entra na contagem do bit.ly.)*
+*(Use o link completo só se alguém pedir, porque ele não entra na contagem do bit.ly.)*
 
 **"Vai pedir meus dados?"**
 > Só um contato (WhatsApp ou e-mail) pra eu te mandar o cronograma. Os planos de ensino não têm dado pessoal, e eu apago tudo depois do trabalho.
@@ -58,7 +58,7 @@ Link da landing: https://bit.ly/4xYE2R5 (redireciona para a página no GitHub Pa
 
 ---
 
-## 4. Lembrete no grupo (1–2 dias depois)
+## 4. Lembrete no grupo (1-2 dias depois)
 
 > Obrigado a quem já se inscreveu! 🙌 Ainda dá tempo, vou fechar as inscrições no **domingo (04/10)**.
 > 👉 https://bit.ly/4xYE2R5

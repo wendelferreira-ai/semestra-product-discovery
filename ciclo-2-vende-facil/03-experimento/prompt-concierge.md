@@ -1,4 +1,4 @@
-# Prompt do Concierge — Vende Fácil
+# Prompt do Concierge: Vende Fácil
 
 Use em qualquer assistente de IA que aceite imagens. Cole o prompt, anexe as fotos e preencha as respostas da pessoa.
 
