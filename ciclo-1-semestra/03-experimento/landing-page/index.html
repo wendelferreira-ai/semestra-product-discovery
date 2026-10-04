@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Semestra — seu semestre organizado</title>
+<meta name="description" content="Mande seus planos de ensino e receba todas as provas e entregas do semestre no seu calendário.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #faf8f4;
+    --ink: #1c1a2e;
+    --muted: #5d5a70;
+    --brand: #4b3fd1;
+    --brand-ink: #ffffff;
+    --accent: #d7f25c;
+    --card: #ffffff;
+    --line: #e7e3da;
+    --warn: #ff7a45;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Plus Jakarta Sans", system-ui, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.55; }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 20px; }
+  header { padding: 20px 0; }
+  .logo { font-weight: 800; font-size: 1.25rem; letter-spacing: -0.02em; }
+  .logo span { background: var(--accent); padding: 0 6px; border-radius: 6px; }
+
+  .hero { display: grid; gap: 40px; padding: 40px 0 64px; align-items: center; }
+  @media (min-width: 860px) { .hero { grid-template-columns: 1.1fr 1fr; padding: 72px 0 96px; } }
+  .tag { display: inline-block; font-size: .8rem; font-weight: 600; color: var(--brand); background: #ebe8ff; padding: 4px 12px; border-radius: 999px; margin-bottom: 16px; }
+  h1 { font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.08; letter-spacing: -0.03em; font-weight: 800; }
+  h1 mark { background: linear-gradient(transparent 60%, var(--accent) 60%); color: inherit; }
+  .lead { font-size: 1.1rem; color: var(--muted); margin: 18px 0 28px; max-width: 34ch; }
+  .cta { display: inline-block; background: var(--brand); color: var(--brand-ink); font-weight: 700; text-decoration: none; padding: 16px 28px; border-radius: 14px; font-size: 1.05rem; box-shadow: 0 6px 0 #2f26a0; transition: transform .1s, box-shadow .1s; }
+  .cta:active { transform: translateY(4px); box-shadow: 0 2px 0 #2f26a0; }
+  .small { font-size: .85rem; color: var(--muted); margin-top: 14px; }
+
+  .cal { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 20px; box-shadow: 0 20px 50px -20px rgba(28,26,46,.25); }
+  .cal h3 { font-size: .9rem; color: var(--muted); font-weight: 600; margin-bottom: 12px; }
+  .item { display: grid; grid-template-columns: 58px 1fr; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line); align-items: center; }
+  .date { text-align: center; background: var(--bg); border-radius: 10px; padding: 6px 0; font-weight: 800; line-height: 1.1; }
+  .date small { display: block; font-size: .65rem; font-weight: 600; color: var(--muted); text-transform: uppercase; }
+  .item b { display: block; font-size: .95rem; }
+  .item span { font-size: .8rem; color: var(--muted); }
+  .alert { margin-top: 12px; background: #fff1ea; color: #a8401a; border-radius: 10px; padding: 10px 12px; font-size: .85rem; font-weight: 600; }
+
+  section { padding: 64px 0; }
+  section h2 { font-size: clamp(1.5rem, 3.5vw, 2.1rem); letter-spacing: -0.02em; margin-bottom: 28px; }
+  .grid { display: grid; gap: 16px; }
+  @media (min-width: 720px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 22px; }
+  .card .n { display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--accent); font-weight: 800; margin-bottom: 12px; }
+  .card h4 { font-size: 1.05rem; margin-bottom: 6px; }
+  .card p { color: var(--muted); font-size: .95rem; }
+  .pain { background: var(--ink); color: #fff; border-radius: 28px; }
+  .pain .card { background: #2a2742; border-color: #3a3658; }
+  .pain .card p { color: #c9c6dc; }
+  .pain h2 { color: #fff; }
+
+  details { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; margin-bottom: 10px; }
+  summary { font-weight: 600; cursor: pointer; }
+  details p { color: var(--muted); margin-top: 8px; }
+
+  .final { text-align: center; }
+  .final p { color: var(--muted); margin: -12px auto 28px; max-width: 46ch; }
+  footer { padding: 32px 0 48px; text-align: center; font-size: .8rem; color: var(--muted); }
+</style>
+</head>
+<body>
+  <header class="wrap"><div class="logo"><span>Se</span>mestra</div></header>
+
+  <main>
+    <div class="wrap hero">
+      <div>
+        <div class="tag">Fase de testes · vagas limitadas</div>
+        <h1>Todas as provas e entregas do semestre <mark>no seu calendário</mark>, em minutos.</h1>
+        <p class="lead">Mande os planos de ensino das suas disciplinas. A IA monta seu cronograma, avisa das semanas pesadas e coloca tudo no seu Google Agenda.</p>
+        <a class="cta js-cta" href="#" target="_blank" rel="noopener">Quero testar grátis</a>
+        <p class="small">Sem app para instalar. Você recebe tudo pelo WhatsApp.</p>
+      </div>
+
+      <div class="cal" aria-label="Exemplo de cronograma gerado">
+        <h3>Exemplo · próximas 2 semanas</h3>
+        <div class="item"><div class="date">08<small>out</small></div><div><b>Cálculo II · Prova 1</b><span>Peso 30% · Cap. 1 a 4</span></div></div>
+        <div class="item"><div class="date">10<small>out</small></div><div><b>Banco de Dados · Trabalho</b><span>Entrega no AVA · modelagem ER</span></div></div>
+        <div class="item"><div class="date">10<small>out</small></div><div><b>Eng. de Software · Seminário</b><span>Grupo · 15 min</span></div></div>
+        <div class="item"><div class="date">15<small>out</small></div><div><b>Estatística · Lista 3</b><span>⚠️ Data a confirmar com o professor</span></div></div>
+        <div class="alert">⚡ Semana crítica: 3 entregas entre 08 e 10/out. Comece o trabalho de BD até 03/out.</div>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <section class="pain" style="padding:48px 28px;">
+        <h2>Soa familiar?</h2>
+        <div class="grid">
+          <div class="card"><h4>“Tinha prova hoje?”</h4><p>A data estava no plano de ensino que você nunca mais abriu.</p></div>
+          <div class="card"><h4>Informação em todo lugar</h4><p>PDF, AVA, e-mail, grupo da turma, aviso na lousa. Nada num lugar só.</p></div>
+          <div class="card"><h4>Tudo na mesma semana</h4><p>Três entregas juntas e você só percebe dois dias antes.</p></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="wrap">
+      <h2>Como funciona</h2>
+      <div class="grid">
+        <div class="card"><div class="n">1</div><h4>Envie os planos de ensino</h4><p>PDF, foto ou link do AVA. De quantas disciplinas quiser.</p></div>
+        <div class="card"><div class="n">2</div><h4>A IA organiza</h4><p>Extrai provas, trabalhos, datas e pesos. O que estiver vago vem marcado para confirmar.</p></div>
+        <div class="card"><div class="n">3</div><h4>Importe no calendário</h4><p>Receba um arquivo com lembretes 7 dias e 1 dia antes de cada entrega.</p></div>
+      </div>
+    </section>
+
+    <section class="wrap">
+      <h2>Perguntas rápidas</h2>
+      <details><summary>É grátis?</summary><p>Sim. Durante a fase de testes, é totalmente gratuito.</p></details>
+      <details><summary>E se a IA errar uma data?</summary><p>Cada cronograma é revisado antes do envio, e datas incertas vêm sinalizadas para você confirmar com o professor.</p></details>
+      <details><summary>Preciso instalar alguma coisa?</summary><p>Não. Funciona com o calendário que você já usa: Google Agenda, Apple ou Outlook.</p></details>
+      <details><summary>O que vocês fazem com meus dados?</summary><p>Usamos só o seu contato para enviar o cronograma. Planos de ensino não têm dados pessoais e são apagados depois do teste.</p></details>
+    </section>
+
+    <section class="wrap final">
+      <h2>Organize o semestre antes que ele te organize.</h2>
+      <p>Garanta uma vaga no teste e receba seu cronograma em até 24 horas.</p>
+      <a class="cta js-cta" href="#" target="_blank" rel="noopener">Quero testar grátis</a>
+    </section>
+  </main>
+
+  <footer>Semestra é um projeto acadêmico de validação de produto · 2026</footer>
+
+  <script>
+    // ⬇️ Cole aqui o link do formulário "Quero testar" (Google Forms / Tally)
+    const FORM_URL = "https://forms.gle/3hJqEJfrtpG2Tf337";
+    document.querySelectorAll(".js-cta").forEach(a => a.href = FORM_URL);
+  </script>
+</body>
+</html>
