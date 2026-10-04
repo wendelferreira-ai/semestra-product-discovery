@@ -1,6 +1,6 @@
 # Formulário de Avaliação: Vende Fácil (~1 min)
 
-**🔗 Formulário publicado:** [COLAR O LINK DEPOIS DE CRIAR]
+**🔗 Formulário publicado:** https://docs.google.com/forms/d/e/1FAIpQLSfUbuJoTZWMkiPbGpUMJrCWr6q9vn7py0sbsn5FFOTJSrhgtA/viewform
 
 Cada pergunta está ligada a uma hipótese, o que permite a comparação no final.
 
@@ -27,7 +27,7 @@ Cada pergunta está ligada a uma hipótese, o que permite a comparação no fina
 ```
 Crie um formulário no Google Forms, em português do Brasil, com cerca de 1 minuto, para pessoas que receberam gratuitamente um preço sugerido e um anúncio pronto para vender um objeto usado (serviço chamado Vende Fácil). As respostas fazem parte de um projeto acadêmico.
 
-Título: Vende Fácil, como foi?
+Título: Formulário de Avaliação: Vende Fácil
 Descrição: "Obrigado por testar! Suas respostas são usadas só na análise do projeto da faculdade."
 
 Perguntas, nesta ordem:
