@@ -1,4 +1,6 @@
-# Parte Teórica — Hipóteses e Estratégia de Validação
+# Ciclo 1 · Parte Teórica — Hipóteses e Estratégia de Validação
+
+> 🔁 **Ciclo encerrado em 04/10/2026 com decisão de PIVOTAR.** Resultado e justificativa: [05-resultado-e-decisao.md](05-resultado-e-decisao.md). Este documento é mantido como estava antes do teste.
 
 **Produto (nome provisório):** Semestra — assistente de IA que transforma planos de ensino em um cronograma do semestre
 **Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Data:** [DATA]

@@ -1,24 +1,24 @@
-# Cronograma — 1 semana (30/09 → 07/10/2026)
+# Cronograma — 30/09 → 07/10/2026
 
-Estratégia para caber em 7 dias: **a mesma pessoa passa por entrevista de problema + concierge MVP numa única conversa**, e a landing page roda em paralelo nos grupos da faculdade para gerar sinal quantitativo.
+## Ciclo 1 — Semestra (encerrado)
+| Data | O que aconteceu |
+|---|---|
+| 30/09 | Hipóteses e critérios definidos, landing page e formulários publicados, post no grupo da turma (30 membros) |
+| 01–03/10 | Nenhuma inscrição nem interação |
+| 04/10 | Leitura final: **0 de 29** → decisão de **pivotar** |
+
+## Ciclo 2 — Vende Fácil (3 dias)
 
 | Dia | Data | Tarefas | Saída |
 |---|---|---|---|
-| D0 | Qua 30/09 | Revisar hipóteses e critérios em `01-parte-teorica.md` (congelar antes de testar!). Configurar o Google Forms (`03-experimento/formulario-pos-teste.md`). Colocar o link do form na landing page (`FORM_URL` no `index.html`) e dar push — ela já é publicada automaticamente no GitHub Pages. Convidar 10 colegas para uma conversa de 15 min. | Hipóteses congeladas, landing no ar, agenda marcada |
-| D1 | Qui 01/10 | Entrevistas de problema (roteiro Parte A). Ao final, oferecer o concierge e pedir o plano de ensino. Divulgar a landing em 2–3 grupos de turma. | 5+ entrevistas anotadas em `04-evidencias/registro-testes.csv` |
-| D2 | Sex 02/10 | Rodar o `prompt-concierge.md` com cada plano de ensino, **conferir as datas manualmente**, entregar cronograma + .ics a cada pessoa. | Cronogramas entregues (prints salvos) |
-| D3–D4 | Sáb 03 – Dom 04/10 | Pessoas usam o cronograma. Enviar o formulário pós-teste no domingo. Lembrar quem não respondeu. | Respostas do formulário (CSV) |
-| D5 | Seg 05/10 | Exportar dados, contar métricas, usar IA para agrupar feedbacks, **revisar você mesmo**. Preencher `05-analise/sintese.md` e aplicar a regra de decisão. | Síntese + decisão |
-| D6 | Ter 06/10 | Finalizar `README.md` e Canvas (versão pós-teste). Gravar o vídeo com `06-pitch/roteiro.md`. | Vídeo gravado |
-| D7 | Qua 07/10 | Revisão final, testar link do vídeo em aba anônima, entregar. | Entrega ✅ |
-
-## Metas mínimas de volume
-- **Entrevistas + concierge:** 6–8 pessoas (mínimo exigido: 5)
-- **Formulário pós-teste:** ≥ 5 respostas
-- **Landing page:** o quanto conseguir — é sinal complementar
+| D0 | **Dom 04/10** | Revisar e **congelar** as metas em `ciclo-2-vende-facil/01-parte-teorica.md`. Criar o formulário de avaliação (prompt pronto). **Mandar a mensagem 1 para 8–10 pessoas individualmente.** Para quem responder: oferta, fotos e entregas no mesmo dia. | Convites enviados, primeiras entregas |
+| D1 | Seg 05/10 | Terminar perguntas e entregas. Conferir preço em 3 anúncios para cada item. Acompanhar quem recebeu ontem ("publicou?"). | ≥ 5 anúncios entregues |
+| D2 | Ter 06/10 | **Até 12h:** último acompanhamento e formulário. **Tarde:** exportar dados, preencher CSV e síntese, aplicar a regra de decisão, atualizar Canvas v2 e README. | Síntese + decisão |
+| D3 | Qua 07/10 | Gravar o vídeo (`06-pitch/roteiro.md`), testar o link em aba anônima e **entregar**. | Entrega ✅ |
 
 ## Regras de ouro
-1. Não mudar as metas depois de ver os dados.
-2. Anotar frases literais, não interpretações.
-3. Nunca falar da solução na Parte A da entrevista.
-4. IA organiza; **você** interpreta e decide (registre no `diario-ia.md`).
+1. **Convite individual**, nunca em grupo (aprendizado do Ciclo 1).
+2. Perguntar sobre o **problema antes** de oferecer a solução.
+3. **Conferir o preço** em anúncios reais antes de entregar.
+4. Pedir **print do anúncio publicado**: essa é a evidência principal.
+5. Não mudar as metas depois de ver os dados.
