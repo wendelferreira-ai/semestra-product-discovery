@@ -1,85 +1,86 @@
 # Mensagens: Vende Fácil (contato individual)
 
 **Regra do Ciclo 1:** nada de post em grupo. Cada pessoa recebe mensagem **individual**, com o nome dela.
-**Meta:** convidar 8-10 pessoas hoje (04/10) para fechar pelo menos 5 testes completos.
+**Meta:** 5 pessoas (V01 a V05). Deixe 1 ou 2 nomes de reserva, caso alguém não responda.
 
-Anote cada pessoa no [registro-testes.csv](../04-evidencias/registro-testes.csv) com um código (V01, V02…).
+Anote cada pessoa no [registro-testes.csv](../04-evidencias/registro-testes.csv).
 
 ---
 
-## 1. Convite + perguntas de problema (sem falar da solução ainda)
+## 1. Primeiro contato (ainda sem falar do serviço)
 
-> Oi, [nome]! Tudo bem? 😊
-> Tô fazendo um trabalho da faculdade e queria tua ajuda com **3 perguntinhas rápidas** (pode responder por áudio):
+> E aí, [nome]! Tudo certo? 😄
+> Me ajuda num trabalho da facul? São 3 perguntas rapidinhas, pode mandar áudio:
 >
-> 1️⃣ Você tem alguma coisa parada em casa que gostaria de vender? O quê, e há quanto tempo tá parada?
-> 2️⃣ Por que ainda não vendeu?
-> 3️⃣ Já vendeu alguma coisa pela internet (OLX, Marketplace, Enjoei…)? Como foi?
+> 1️⃣ Tem alguma coisa parada aí na sua casa que você venderia? O quê, e faz quanto tempo que tá encostada?
+> 2️⃣ E por que ainda não vendeu?
+> 3️⃣ Já vendeu alguma coisa pela internet? OLX, Marketplace, Enjoei... Como foi?
 >
-> Posso usar tuas respostas no trabalho, **sem teu nome**? 🙏
+> Ah, posso usar o que você responder no trabalho? Sem seu nome, claro 🙏
 
-> 💡 **Não fale do serviço nesta mensagem.** A pergunta 2 é a mais importante: anote a resposta **literal**. É ela que testa a H1 (o motivo é preço/anúncio/trabalho?).
-> Se a pessoa disser que não tem nada para vender, **isso também é dado**: agradeça, registre e não insista.
-
----
-
-## 2. Oferta (só para quem tem item parado)
-
-> Valeu demais! Olha, tô testando uma ideia justamente pra isso:
-> você me manda **uma ou duas fotos** do(a) [item] e eu te devolvo, de graça, o **preço sugerido** e o **anúncio prontinho** pra postar na OLX ou no Marketplace. Topa?
-
-Anote a reação: **aceitou na hora / hesitou / recusou** (e por quê). É sinal de valor.
+> 💡 A pergunta 2 é a mais importante: anote a resposta **do jeito que a pessoa falou**. É ela que testa a H1.
+> Se a pessoa disser que não tem nada para vender, **isso também é dado**. Agradeça, registre e chame alguém da reserva.
 
 ---
 
-## 3. Pedido das fotos + informações
+## 2. Oferta (só para quem tem algo parado)
 
-> Boa! Me manda:
-> 📸 1 a 3 fotos do item (de frente e algum detalhe)
-> E me conta rapidinho:
-> • Marca/modelo (se souber)
+> Valeuuu! Então, tô testando uma ideia justamente pra isso 👀
+> Me manda uma ou duas fotos do(a) [item] que eu te devolvo quanto vale pedir e o anúncio prontinho, é só copiar e colar na OLX ou no Marketplace. De graça! Bora?
+
+Anote a reação: **topou na hora / ficou na dúvida / não quis** (e por quê).
+
+---
+
+## 3. Fotos e informações
+
+> Show! Manda aí:
+> 📸 1 a 3 fotos (uma de frente e uma de algum detalhe)
+>
+> E me fala rapidinho:
+> • Marca/modelo, se souber
 > • Quanto tempo de uso
 > • Tem algum defeito?
-> • Vem com alguma coisa junto (caixa, carregador…)?
-> • Bairro/cidade
-> • Prefere vender **rápido** ou pelo **melhor preço**?
+> • Vem com alguma coisa junto? (caixa, carregador...)
+> • Seu bairro/cidade
+> • Quer vender rápido ou prefere esperar pelo melhor preço?
 
 ---
 
 ## 4. Entrega
 
-> Pronto, [nome]! Segue teu anúncio 👇
+> Prontinho, [nome]! Olha aí 👇
 >
-> 💰 **Preço de anúncio:** R$ [ ]
-> 🔻 **Mínimo que eu aceitaria:** R$ [ ]
-> (conferi em [3] anúncios parecidos aqui na região)
+> 💰 **Pede:** R$ [ ]
+> 🔻 **Não aceita menos que:** R$ [ ]
+> (dei uma olhada em uns anúncios parecidos aqui na região)
 >
 > 📝 **Título:** [ ]
 > 📄 **Descrição:** [ ]
 >
-> 📸 **Dicas pra foto:** [ ]
-> 💬 **Se perguntarem "faz por menos?":** [ ]
-> 🔒 **Cuidado com golpe:** [ ]
+> 📸 **Dica pras fotos:** [ ]
+> 💬 **Se pedirem desconto:** [ ]
+> 🔒 **Pra não cair em golpe:** [ ]
 >
-> É só copiar e colar! Se postar, **me manda o print do anúncio** que conta muito pro meu trabalho 🙏
+> É só copiar e colar! Quando postar, me manda um print? Ajuda demais no trabalho 🙏
 
 ---
 
-## 5. Acompanhamento (dia seguinte, até 06/10 de manhã)
+## 5. Acompanhamento (no dia seguinte, até 06/10 de manhã)
 
-> Oi, [nome]! E aí, conseguiu postar o anúncio? 😄
-> Se postou, me manda o print ou o link.
-> Se não postou, sem problema nenhum, só me conta o que pegou (é super útil pra mim)!
+> Ei, [nome]! E aí, postou? 😄
+> Se postou, me manda o print ou o link!
+> Se não rolou, de boa, só me conta o que pegou que isso também me ajuda muito
 
-Registre: **publicou (sim/não)**, data, plataforma, print. Se não publicou, o **motivo literal**.
+Registre: **publicou (sim/não)**, data, plataforma e print. Se não publicou, o **motivo** do jeito que a pessoa falou.
 
 ---
 
 ## 6. Formulário (logo depois do acompanhamento)
 
-> Última coisinha: responde esse formulário de 1 minuto?
+> Última coisa, prometo 😅 Responde esse formulário rapidinho? É 1 minutinho:
 > [LINK DO FORMULÁRIO]
-> Teu código é **V0_**. Valeu demais pela ajuda! 🙌
+> Seu código é **V0_**. Valeu demais!! 🙌
 
 ---
 

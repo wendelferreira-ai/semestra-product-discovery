@@ -11,8 +11,8 @@
 
 | Dia | Data | Tarefas | Saída |
 |---|---|---|---|
-| D0 | **Dom 04/10** | Revisar e **congelar** as metas em `ciclo-2-vende-facil/01-parte-teorica.md`. Criar o formulário de avaliação (prompt pronto). **Mandar a mensagem 1 para 8-10 pessoas individualmente.** Para quem responder: oferta, fotos e entregas no mesmo dia. | Convites enviados, primeiras entregas |
-| D1 | Seg 05/10 | Terminar perguntas e entregas. Conferir preço em 3 anúncios para cada item. Acompanhar quem recebeu ontem ("publicou?"). | ≥ 5 anúncios entregues |
+| D0 | **Dom 04/10** | Revisar e **congelar** as metas em `ciclo-2-vende-facil/01-parte-teorica.md`. Criar o formulário de avaliação (prompt pronto). **Mandar a mensagem 1 para as 5 pessoas, uma por uma** (e ter 1 ou 2 reservas). Para quem responder: oferta, fotos e entregas no mesmo dia. | Convites enviados, primeiras entregas |
+| D1 | Seg 05/10 | Terminar perguntas e entregas. Conferir preço em 3 anúncios para cada item. Acompanhar quem recebeu ontem ("publicou?"). | Anúncio entregue para todos que têm item |
 | D2 | Ter 06/10 | **Até 12h:** último acompanhamento e formulário. **Tarde:** exportar dados, preencher CSV e síntese, aplicar a regra de decisão, atualizar Canvas v2 e README. | Síntese + decisão |
 | D3 | Qua 07/10 | Gravar o vídeo (`06-pitch/roteiro.md`), testar o link em aba anônima e **entregar**. | Entrega ✅ |
 

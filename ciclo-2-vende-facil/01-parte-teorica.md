@@ -25,6 +25,8 @@
 | H3b | Valor (secundária) | Acreditamos que querem usar de novo. | ≥ **30%** mandam um 2º item sem que o autor peça. |
 | H3c | Valor (informativa) | Acreditamos que parte pagaria pelo serviço. | % que pagaria por anúncio ou por comissão na venda. *(não decide sozinha)* |
 
+**Metas em números, com 5 participantes:** H1 = pelo menos **3 de 5** · H2 preço justo = pelo menos **3 de 5** · H3 publicou = pelo menos **2 de 5** · H3b 2º item = pelo menos **2 de 5**. Os percentuais de H2 e H3 contam só quem recebeu o anúncio.
+
 **Hipótese mais arriscada:** H3. Pessoas próximas tendem a elogiar qualquer coisa (viés de simpatia), então **opinião vale pouco aqui**. A prova de valor é a **ação**: publicar o anúncio.
 
 ## 3. Solução proposta e definição do MVP
@@ -58,7 +60,7 @@ Registro detalhado: [diario-ia.md](../diario-ia.md). **A IA não valida mercado:
 | Item | Definição |
 |---|---|
 | Formato | Perguntas de problema (texto ou áudio) → concierge → acompanhamento "publicou?" → formulário curto |
-| Amostra | 8-10 convidados entre família, amigos e colegas (mínimo 5 testes completos) |
+| Amostra | 5 pessoas entre família, amigos e colegas (V01 a V05), com 1 ou 2 reservas caso alguém não responda |
 | Período | 04/10 a 06/10/2026 (12h) |
 | Dados quantitativos | % com item parado; motivos; nota de utilidade; % preço justo; **% que publicou**; % que mandou 2º item; diferença entre o preço da IA e o preço de mercado |
 | Dados qualitativos | Frases literais, objeções, motivos para não publicar |
