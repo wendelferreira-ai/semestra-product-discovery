@@ -69,4 +69,6 @@ Aplicando a regra de [01-parte-teorica.md §6](../01-parte-teorica.md):
 - **Viés de simpatia:** participantes são pessoas próximas, por isso o peso maior está na ação (publicar), não na nota.
 - **Janela curta:** até ~48 h. Não dá para medir se o item **vende**.
 - Amostra pequena e por conveniência.
+- **Solução apresentada junto com as perguntas de problema:** pode ter influenciado as respostas da H1 (ver [registro-convites.md](../04-evidencias/registro-convites.md)).
+- **3 de 5 convites feitos em grupo de amigos**, não individualmente.
 - [outras]

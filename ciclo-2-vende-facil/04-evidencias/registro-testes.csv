@@ -1,6 +1,6 @@
 id,data_convite,relacao,faixa_idade,respondeu_convite,tem_item_parado,item,tempo_parado,motivo_nao_vendeu_literal,motivo_categoria,ja_vendeu_online,reacao_oferta,data_entrega,preco_ia_anuncio,preco_ia_minimo,preco_mercado_medio,diferenca_pct,preco_entregue,publicou,data_publicacao,plataforma,evidencia_publicacao,motivo_nao_publicou,mandou_2o_item,vendeu,citacao_1,citacao_2
-V01,,,,,,,,,,,,,,,,,,,,,,,,,,
-V02,,,,,,,,,,,,,,,,,,,,,,,,,,
-V03,,,,,,,,,,,,,,,,,,,,,,,,,,
-V04,,,,,,,,,,,,,,,,,,,,,,,,,,
-V05,,,,,,,,,,,,,,,,,,,,,,,,,,
+V01,2026-10-04,amigo (convite no grupo de amigos),,aguardando,,,,,,,,,,,,,,,,,,,,,,
+V02,2026-10-04,amigo (convite no grupo de amigos),,sim: áudio de 0:03 às 10:35 [PREENCHER conteúdo],,,,,,,,,,,,,,,,,,,,,,
+V03,2026-10-04,amigo (convite no grupo de amigos),,aguardando,,,,,,,,,,,,,,,,,,,,,,
+V04,2026-10-04,amigo (convite individual),,aguardando,,,,,,,,,,,,,,,,,,,,,,
+V05,2026-10-04,família (convite individual),,aguardando,,,,,,,,,,,,,,,,,,,,,,

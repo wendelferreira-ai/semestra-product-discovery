@@ -4,6 +4,7 @@ Tudo que comprova que o experimento aconteceu com pessoas reais.
 
 | Arquivo / pasta | Conteúdo |
 |---|---|
+| [registro-convites.md](registro-convites.md) | Quando e por qual canal cada pessoa foi convidada, a mensagem enviada e os desvios do protocolo |
 | [registro-testes.csv](registro-testes.csv) | Uma linha por convidado (V01, V02…): respostas de problema, preço da IA × mercado, publicou ou não |
 | `respostas-formulario.csv` | Export do formulário de avaliação |
 | `prints/` | Conversas (sem telefone e sem foto de perfil), anúncios entregues e **anúncios publicados** |
