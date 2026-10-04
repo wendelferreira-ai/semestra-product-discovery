@@ -2,7 +2,7 @@
 
 | Código | Data / hora | Canal | Evidência | Resposta |
 |---|---|---|---|---|
-| V01, V02, V03 | 04/10/2026 10:33 | Grupo de WhatsApp com 3 amigos | [print](prints/2026-10-04_convite-V01-V02-V03-grupo.png) | V02 respondeu com áudio de 3 s às 10:35 |
+| V01, V02, V03 | 04/10/2026 10:33 | Grupo de WhatsApp com 3 amigos | [print](prints/2026-10-04_convite-V01-V02-V03-grupo.png) | V02 respondeu com áudio de 3 s às 10:35: está na rua e vai responder quando chegar em casa |
 | V04 | 04/10/2026 10:37 | Conversa individual (amigo) | [print](prints/2026-10-04_convite-V04.png) | aguardando |
 | V05 | 04/10/2026 10:35 | Conversa individual (família) | [print](prints/2026-10-04_convite-V05.png) | aguardando |
 
