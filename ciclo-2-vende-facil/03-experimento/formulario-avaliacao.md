@@ -4,9 +4,11 @@
 
 Cada pergunta está ligada a uma hipótese, o que permite a comparação no final.
 
+> 🔒 A pergunta 1 pede o **nome** para facilitar para quem responde. Antes de publicar o CSV no repositório, cada nome é trocado pelo código do participante (V01 a V05), usando o mapa que fica em `04-evidencias/brutos/` (fora do Git).
+
 | # | Pergunta | Tipo | Obrigatória | Hipótese |
 |---|---|---|---|---|
-| 1 | Qual seu código de participante? (ex.: V01) | Resposta curta | ✅ | - |
+| 1 | Qual seu nome? | Resposta curta | ✅ | - (trocado pelo código V0_ antes de publicar os dados) |
 | 2 | O que você queria vender? | Resposta curta | | Perfil |
 | 3 | De 1 a 5, quão útil foi receber o preço e o anúncio prontos? | Escala 1-5 (nada útil → muito útil) | ✅ | **H2** |
 | 4 | O preço sugerido pareceu… | Muito baixo / Justo / Muito alto / Não sei dizer | ✅ | **H2** |
@@ -31,7 +33,7 @@ Título: Formulário de Avaliação: Vende Fácil
 Descrição: "Obrigado por testar! Suas respostas são usadas só na análise do projeto da faculdade."
 
 Perguntas, nesta ordem:
-1. "Qual seu código de participante? (ex.: V01)" (resposta curta, obrigatória)
+1. "Qual seu nome?" (resposta curta, obrigatória)
 2. "O que você queria vender?" (resposta curta)
 3. "De 1 a 5, quão útil foi receber o preço e o anúncio prontos?" (escala linear de 1 (nada útil) a 5 (muito útil), obrigatória)
 4. "O preço sugerido pareceu…" (múltipla escolha: Muito baixo / Justo / Muito alto / Não sei dizer, obrigatória)

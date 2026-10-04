@@ -80,7 +80,7 @@ Registre: **publicou (sim/não)**, data, plataforma e print. Se não publicou, o
 
 > Última coisa, prometo 😅 Responde esse formulário rapidinho? É 1 minutinho:
 > https://docs.google.com/forms/d/e/1FAIpQLSfUbuJoTZWMkiPbGpUMJrCWr6q9vn7py0sbsn5FFOTJSrhgtA/viewform
-> Seu código é **V0_**. Valeu demais!! 🙌
+> Valeu demais!! 🙌
 
 ---
 
