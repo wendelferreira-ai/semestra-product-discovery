@@ -1,4 +1,4 @@
-# Ciclo 2 — Síntese, Comparação e Decisão
+# Ciclo 2: Síntese, Comparação e Decisão
 
 > Preencha **somente** com dados de [04-evidencias/](../04-evidencias/). A IA pode ajudar a agrupar feedbacks, mas a interpretação e a decisão são do autor. Registre no [diario-ia.md](../../diario-ia.md) onde você concordou ou discordou dela.
 
@@ -38,8 +38,8 @@ Perfil: [relação (família/amigos/trabalho), faixas de idade, tipos de item]
 
 > 💡 Se o motivo dominante **não** for preço/anúncio, a regra manda **pivotar a solução** para essa barreira.
 
-## 4. Padrões identificados (3–5)
-1. **[Padrão]** — [x de n]. *"[citação]"* (V0_)
+## 4. Padrões identificados (3-5)
+1. **[Padrão]**: [x de n]. *"[citação]"* (V0_)
 2. **[...]**
 3. **[...]**
 
@@ -61,7 +61,7 @@ Aplicando a regra de [01-parte-teorica.md §6](../01-parte-teorica.md):
 
 **Decisão: [PERSEVERAR / AJUSTAR / PIVOTAR / ABANDONAR]**
 
-**Justificativa:** [2–4 frases ligando a tabela 2 à regra]
+**Justificativa:** [2-4 frases ligando a tabela 2 à regra]
 
 **Próximo experimento recomendado:** [o quê, com quem, qual métrica, em quanto tempo]
 

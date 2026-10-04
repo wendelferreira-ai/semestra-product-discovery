@@ -1,8 +1,8 @@
-# Canvas de Produto — Vende Fácil
+# Canvas de Produto: Vende Fácil
 
 > **v1 (pré-teste)** = hipóteses. Depois do experimento, preencha a **v2** marcando ✅ confirmado, ❌ refutado ou ✏️ alterado, com a evidência.
 
-## Lean Canvas — v1 (pré-teste)
+## Lean Canvas: v1 (pré-teste)
 
 | Bloco | Conteúdo |
 |---|---|
@@ -12,12 +12,12 @@
 | **3. Proposta de valor única** | "Manda uma foto. Recebe o preço e o anúncio prontos para postar." |
 | **4. Solução** | Identificação do item por foto; faixa de preço conferida em anúncios reais; título e descrição prontos; respostas prontas para compradores. |
 | **5. Canais** | WhatsApp (contato direto), indicação boca a boca, grupos de bairro e condomínio. |
-| **6. Fontes de receita** | Hipóteses: R$ 2–5 por anúncio; comissão só se vender; plano para quem vende com frequência (brechós, desapegos). |
+| **6. Fontes de receita** | Hipóteses: R$ 2-5 por anúncio; comissão só se vender; plano para quem vende com frequência (brechós, desapegos). |
 | **7. Estrutura de custos** | API de IA por item, tempo humano de conferência (no MVP), aquisição de usuários. |
 | **8. Métricas-chave** | **% que publica o anúncio**, % que vende, itens por usuário, diferença entre preço sugerido e preço de venda. |
 | **9. Vantagem injusta** | Nenhuma hoje (honesto). Potencial: base própria de preços reais de venda por categoria e região. |
 
-## Value Proposition Canvas — v1
+## Value Proposition Canvas: v1
 
 ### Perfil do cliente
 | Tarefas (jobs) | Dores | Ganhos desejados |
@@ -35,5 +35,5 @@
 
 ---
 
-## Lean Canvas — v2 (pós-teste)
+## Lean Canvas: v2 (pós-teste)
 [PREENCHER depois do experimento: copie a v1 e marque ✅ / ❌ / ✏️ em cada bloco com a evidência]

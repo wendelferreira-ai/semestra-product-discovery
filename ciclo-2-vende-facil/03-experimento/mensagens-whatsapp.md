@@ -1,7 +1,7 @@
-# Mensagens — Vende Fácil (contato individual)
+# Mensagens: Vende Fácil (contato individual)
 
 **Regra do Ciclo 1:** nada de post em grupo. Cada pessoa recebe mensagem **individual**, com o nome dela.
-**Meta:** convidar 8–10 pessoas hoje (04/10) para fechar pelo menos 5 testes completos.
+**Meta:** convidar 8-10 pessoas hoje (04/10) para fechar pelo menos 5 testes completos.
 
 Anote cada pessoa no [registro-testes.csv](../04-evidencias/registro-testes.csv) com um código (V01, V02…).
 

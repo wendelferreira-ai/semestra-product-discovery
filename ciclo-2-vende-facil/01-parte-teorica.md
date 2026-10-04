@@ -1,6 +1,6 @@
-# Ciclo 2 · Parte Teórica — Hipóteses e Estratégia de Validação
+# Ciclo 2 · Parte Teórica: Hipóteses e Estratégia de Validação
 
-**Produto (nome provisório):** Vende Fácil — manda a foto de algo que quer vender e recebe o preço sugerido e o anúncio pronto
+**Produto (nome provisório):** Vende Fácil: manda a foto de algo que quer vender e recebe o preço sugerido e o anúncio pronto
 **Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Data:** 04/10/2026
 
 > Origem: pivô decidido ao fim do [Ciclo 1 (Semestra)](../ciclo-1-semestra/05-resultado-e-decisao.md). Este documento é escrito e **congelado antes** do experimento.
@@ -9,11 +9,11 @@
 
 ## 1. Problema, público e oportunidade
 
-**Problema.** Quase toda casa tem objetos parados — bicicleta, eletrônico antigo, roupa, móvel, brinquedo — que o dono até gostaria de vender, mas não vende. O motivo raramente é falta de comprador: é o **trabalho de começar**. É preciso descobrir quanto pedir, escrever um anúncio que convença, tirar fotos boas e responder curiosos. Sem saber o preço, a pessoa tem medo de vender barato demais ou de anunciar caro e ninguém chamar — e adia indefinidamente.
+**Problema.** Quase toda casa tem objetos parados (bicicleta, eletrônico antigo, roupa, móvel, brinquedo) que o dono até gostaria de vender, mas não vende. O motivo raramente é falta de comprador: é o **trabalho de começar**. É preciso descobrir quanto pedir, escrever um anúncio que convença, tirar fotos boas e responder curiosos. Sem saber o preço, a pessoa tem medo de vender barato demais ou de anunciar caro e ninguém chamar, e adia indefinidamente.
 
 **Público inicial.** Adultos de 25 a 60 anos, acessíveis por contato direto (família, amigos, colegas de trabalho), que usam WhatsApp diariamente e têm pelo menos um item parado em casa.
 
-**Oportunidade.** Modelos de IA multimodais identificam um objeto por foto e escrevem textos de venda em segundos. Combinado a uma checagem rápida de preços reais em anúncios parecidos, isso reduz o "trabalho de começar" de 30–60 minutos para uma foto.
+**Oportunidade.** Modelos de IA multimodais identificam um objeto por foto e escrevem textos de venda em segundos. Combinado a uma checagem rápida de preços reais em anúncios parecidos, isso reduz o "trabalho de começar" de 30-60 minutos para uma foto.
 
 ## 2. Hipóteses
 
@@ -58,7 +58,7 @@ Registro detalhado: [diario-ia.md](../diario-ia.md). **A IA não valida mercado:
 | Item | Definição |
 |---|---|
 | Formato | Perguntas de problema (texto ou áudio) → concierge → acompanhamento "publicou?" → formulário curto |
-| Amostra | 8–10 convidados entre família, amigos e colegas (mínimo 5 testes completos) |
+| Amostra | 8-10 convidados entre família, amigos e colegas (mínimo 5 testes completos) |
 | Período | 04/10 a 06/10/2026 (12h) |
 | Dados quantitativos | % com item parado; motivos; nota de utilidade; % preço justo; **% que publicou**; % que mandou 2º item; diferença entre o preço da IA e o preço de mercado |
 | Dados qualitativos | Frases literais, objeções, motivos para não publicar |

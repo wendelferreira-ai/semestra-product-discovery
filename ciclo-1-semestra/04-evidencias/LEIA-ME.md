@@ -1,4 +1,4 @@
-# Evidências — Ciclo 1 (Semestra)
+# Evidências: Ciclo 1 (Semestra)
 
 O Ciclo 1 não chegou à etapa de concierge: ninguém se inscreveu pela landing page, então não houve testes individuais.
 

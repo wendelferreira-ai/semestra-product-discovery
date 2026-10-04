@@ -6,7 +6,7 @@ Anote **frases literais** entre aspas. Preencha uma linha em `04-evidencias/regi
 
 ---
 
-## Parte A — Problema (10 min) — NÃO fale da solução
+## Parte A: Problema (10 min), sem falar da solução
 
 1. Qual curso e semestre? Quantas disciplinas está fazendo? Trabalha ou estagia?
 2. Como você fica sabendo das datas de provas e entregas? *(conte as fontes citadas)*
@@ -19,14 +19,14 @@ Anote **frases literais** entre aspas. Preencha uma linha em `04-evidencias/regi
 
 > 💡 A pergunta 8 é a que detecta **pivô**: se a resposta dominante não for sobre prazos, anote bem.
 
-## Parte B — Oferta do concierge (2 min)
+## Parte B: Oferta do concierge (2 min)
 
 "Estou testando uma ideia: você me manda o plano de ensino das suas disciplinas e eu te devolvo, em até 24 h, um cronograma com todas as entregas e um arquivo para importar no seu calendário. É de graça, é só para o trabalho. Topa?"
 
 - Aceitou na hora? Pediu para mandar de mais disciplinas? Hesitou? → **anote a reação** (é evidência de valor).
 - Peça os planos de ensino (PDF, foto ou link do AVA).
 
-## Parte C — Entrega (via WhatsApp)
+## Parte C: Entrega (via WhatsApp)
 
 Envie: tabela de entregas + alertas + arquivo `.ics`, com a mensagem:
 
@@ -34,11 +34,11 @@ Envie: tabela de entregas + alertas + arquivo `.ics`, com a mensagem:
 
 Salve prints da conversa (esconda nome/foto) em `04-evidencias/prints/`.
 
-## Parte D — Pós-uso (domingo)
+## Parte D: Pós-uso (domingo)
 
 Envie o link do formulário com o código da pessoa:
 
-"Oi! Como foi com o cronograma? Me ajuda respondendo esse formulário rapidinho (2 min): https://forms.gle/GGrQ9eAWoShbxEmYA — seu código é **P0_**. Valeu!"
+"Oi! Como foi com o cronograma? Me ajuda respondendo esse formulário rapidinho (2 min): https://forms.gle/GGrQ9eAWoShbxEmYA. Seu código é **P0_**. Valeu!"
 
 Quem não responder até segunda de manhã: 1 lembrete.
 
