@@ -26,6 +26,8 @@ Fora da comparação: monitores de 19" antigos, só com VGA (LG, Samsung, Positi
 
 ## 4. Anúncio entregue
 
+**Enviado em:** 05/10/2026 às 08:24 pelo WhatsApp ([print](../prints/2026-10-05_entrega-V04.png))
+
 **Título (44 caracteres):**
 > Monitor 19" LED HD Target TGT MG19 HDMI VGA
 
@@ -57,3 +59,9 @@ Fora da comparação: monitores de 19" antigos, só com VGA (LG, Samsung, Positi
 3. Combine a retirada com alguém em casa ou num local movimentado.
 
 > Os trechos entre [colchetes] são para o próprio V04 completar. Assim não foi preciso fazer mais perguntas antes da entrega.
+
+## 5. Acompanhamento
+| Data / hora | O que aconteceu |
+|---|---|
+| 05/10 08:24 | Anúncio entregue |
+| [ ] | Publicou? [PREENCHER] |
