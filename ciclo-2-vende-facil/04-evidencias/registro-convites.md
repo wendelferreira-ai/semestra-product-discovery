@@ -3,10 +3,10 @@
 | Código | Data / hora | Canal | Evidência | Resposta |
 |---|---|---|---|---|
 | V01, V02, V03 | 04/10/2026 10:33 | Grupo de WhatsApp com 3 amigos | [print](prints/2026-10-04_convite-V01-V02-V03-grupo.png) | V02 (10:35, áudio de 3 s): está na rua, responde ao chegar em casa. V01 (10:42, áudio de 10 s): está numa fila, responde ao chegar em casa [print pendente] |
-| V04 | 04/10/2026 10:37 | Conversa individual (amigo) | [convite](prints/2026-10-04_convite-V04.png) · [resposta](prints/2026-10-04_resposta-V04.png) | 12:32: **não tem nada que queira vender**; se ofereceu para inventar um item |
+| V04 | 04/10/2026 10:37 | Conversa individual (amigo) | [convite](prints/2026-10-04_convite-V04.png) · [resposta 1](prints/2026-10-04_resposta-V04.png) · [resposta 2](prints/2026-10-04_resposta-V04-perguntas.png) | 12:32: **não tem nada que queira vender**; se ofereceu para inventar um item. 19:16: mandou a foto do monitor sugerido pelo autor e respondeu: *"Venderia esse monitor, ele está velho já"*, *"Tive dificuldade para vender"*, *"já vendi pelo Mercado Livre, achei uma experiência tranquila"* |
 | V05 | 04/10/2026 10:35 | Conversa individual (família) | [convite](prints/2026-10-04_convite-V05.png) · [resposta](prints/2026-10-04_resposta-V05.png) | 11:00: está fazendo almoço, responde em seguida |
 
-> Nos prints publicados aparecem só as mensagens do autor e as respostas, com nomes, fotos de perfil e telefones cobertos. Os originais ficam em `brutos/` (fora do Git).
+> Nos prints publicados aparecem só as mensagens do autor e as respostas, com nomes, fotos de perfil e telefones cobertos. Fotos de itens tiradas dentro de casa (com reflexo da pessoa ou do ambiente) também não são publicadas. Os originais ficam em `brutos/` (fora do Git).
 
 ## Mensagem enviada (versão do autor)
 > [saudação], to fazendo um trabalho de faculdade, de um produto ("Vende Fácil") a ideia é você mandar a foto de um produto que você queira vender e eu te devolvo o preço sugerido + título + descrição do anúncio
