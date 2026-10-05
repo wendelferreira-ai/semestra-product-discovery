@@ -15,7 +15,8 @@ O que o avaliador quer ver: **onde a IA ajudou, e onde a decisão foi diferente 
 |---|---|---|---|---|
 | 04/10 | Assistente de IA generativa | Gerar ideias para o pivô | ~17 ideias em 3 rodadas: primeiro genéricas e depois, a pedido, mais simples e concretas | Achei as primeiras genéricas demais e pedi algo simples. Escolhi o **Vende Fácil** porque [PREENCHER, ex.: ação observável (publicar), esforço mínimo (uma foto), todo mundo tem algo parado] |
 | 04/10 | Assistente de IA generativa | Hipóteses e MVP do Ciclo 2 | H1 a H3 com foco em métrica comportamental, prompt do concierge, mensagens | [PREENCHER] |
-| 04 e 05/10 | [Ferramenta de IA] | Motor do concierge | Identificação do item, preço, título, descrição | Preço da IA × média de 3 anúncios reais: diferença média de [x%]. Ajustei [n] de [m] preços |
+| 05/10 | Assistente de IA generativa | Concierge V04 (monitor) | Estimativa de R$ 150 a 220, título, descrição, respostas prontas e dicas contra golpe | **Eu identifiquei o modelo exato** na página do fabricante (a IA só via "Target" na moldura). Na checagem de 3 anúncios da OLX, a média foi R$ 224,67, 18% acima do ponto médio da IA; mantive R$ 180 por causa do suporte quebrado. Deixei campos entre colchetes para o próprio V04 completar, em vez de fazer mais perguntas ([entrega](ciclo-2-vende-facil/04-evidencias/entregas/V04-monitor.md)) |
+| 05/10 | [Ferramenta de IA] | Concierge dos demais participantes | | Preço da IA × média de 3 anúncios reais: diferença média de [x%]. Ajustei [n] de [m] preços |
 | 06/10 | [Ferramenta de IA] | Agrupar feedbacks | [temas sugeridos] | [temas que mantive, juntei ou descartei e por quê] |
 
 ## Reflexão final (preencher no fim)

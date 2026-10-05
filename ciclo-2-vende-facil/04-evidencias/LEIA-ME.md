@@ -7,6 +7,7 @@ Tudo que comprova que o experimento aconteceu com pessoas reais.
 | [registro-convites.md](registro-convites.md) | Quando e por qual canal cada pessoa foi convidada, a mensagem enviada e os desvios do protocolo |
 | [registro-testes.csv](registro-testes.csv) | Uma linha por convidado (V01, V02…): respostas de problema, preço da IA × mercado, publicou ou não |
 | `respostas-formulario.csv` | Export do formulário de avaliação, com os **nomes trocados pelos códigos** V01 a V05 (o export original fica em `brutos/`) |
+| `entregas/` | Um arquivo por participante: checagem de preço em anúncios reais e anúncio entregue |
 | `prints/` | Conversas (sem telefone e sem foto de perfil), anúncios entregues e **anúncios publicados** |
 | `brutos/` | Originais e fotos recebidas, **ignorado pelo Git e nunca publicado** |
 
