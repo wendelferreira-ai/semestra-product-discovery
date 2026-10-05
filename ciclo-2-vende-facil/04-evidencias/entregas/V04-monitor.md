@@ -64,4 +64,8 @@ Fora da comparação: monitores de 19" antigos, só com VGA (LG, Samsung, Positi
 | Data / hora | O que aconteceu |
 |---|---|
 | 05/10 08:24 | Anúncio entregue |
-| [ ] | Publicou? [PREENCHER] |
+| 05/10 08:27 | *"Vou postar agora mesmo no mercado livre"* ([print](../prints/2026-10-05_reacao-V04.png)) |
+| 05/10 08:28 | *"Ficou realmente bom agr"* |
+| [ ] | Publicou de fato? Print do anúncio no ar [PREENCHER] |
+
+> ⚠️ "Vou postar" é **intenção**, não ação. Para a H3, só conta como publicado com o print ou link do anúncio no ar.
