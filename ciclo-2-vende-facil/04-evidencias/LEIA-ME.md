@@ -13,7 +13,7 @@ Tudo que comprova que o experimento aconteceu com pessoas reais.
 ## Regras de privacidade (repositório público)
 - **Nomes, fotos de perfil e telefones sempre cobertos.** Nos documentos, cada pessoa aparece só pelo código (V01 a V05).
 - Nos prints de anúncios publicados, cubra também telefone e endereço exato, se aparecerem.
-- Nada de fotos de dentro da casa das pessoas no repositório, só a do item, se a pessoa permitir.
+- Fotos de itens podem aparecer, com **reflexos da pessoa e do ambiente borrados**. A foto original fica só em `brutos/`.
 
 ## Colunas-chave do CSV
 | Coluna | Hipótese |
