@@ -1,6 +1,6 @@
 # Do Semestra ao Vende Fácil: Case de Product Discovery e Validação
 
-> Dois ciclos de hipótese → experimento → evidência → decisão em **uma semana**. O primeiro produto não gerou nenhum interesse e foi pivotado; o segundo foi testado com pessoas reais medindo **ação**, não opinião.
+> Dois ciclos de hipótese → experimento → evidência → decisão em **uma semana**. O primeiro produto não gerou nenhum interesse e foi pivotado. O segundo foi testado com pessoas reais medindo **ação**, não opinião, e revelou que o problema estava em outro lugar.
 
 **Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 a 07/10/2026
 **🎥 Vídeo pitch:** [LINK]
@@ -12,10 +12,10 @@
 | | Ciclo 1: Semestra | Ciclo 2: Vende Fácil |
 |---|---|---|
 | **Ideia** | IA transforma planos de ensino no cronograma do semestre | Manda a foto de algo parado em casa e recebe o preço e o anúncio prontos |
-| **Público** | Universitários | Família, amigos e colegas com itens parados |
-| **Experimento** | Landing page + formulário, divulgados em grupo da turma | Concierge (Mágico de Oz) por WhatsApp individual |
-| **Resultado** | **0 inscrições em 29 pessoas, em 4 dias** | [PREENCHER] |
-| **Decisão** | **Pivotar** | [PREENCHER] |
+| **Público** | Universitários | Amigos e família com itens parados |
+| **Experimento** | Landing page + formulário, divulgados em grupo da turma | Concierge (Mágico de Oz) por WhatsApp |
+| **Resultado** | **0 inscrições em 29 pessoas, em 4 dias** | **1 de 5 tinha item parado; 1 de 2 que receberam o anúncio publicou no mesmo dia** |
+| **Decisão** | **Pivotar** | **Abandonar a hipótese e pivotar para quem já anuncia e não vende** |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## Ciclo 2: Vende Fácil (04/10 a 06/10)
+## Ciclo 2: Vende Fácil (04/10 a 05/10)
 
 ### Problema
 Quase toda casa tem objetos parados que o dono gostaria de vender, mas não vende por causa do **trabalho de começar**: descobrir o preço, escrever o anúncio, fotografar e negociar.
@@ -59,28 +59,37 @@ Nenhuma linha de código. O autor faz o papel do produto:
 4. Formulário de 1 minuto → [perguntas](ciclo-2-vende-facil/03-experimento/formulario-avaliacao.md)
 
 ### Evidências
-[PREENCHER: n participantes, perfil e datas. Inserir 2 ou 3 prints (conversa + anúncio publicado, sem telefones).] → [04-evidencias/](ciclo-2-vende-facil/04-evidencias/)
+**5 pessoas reais** convidadas em 04/10 (4 amigos e 1 pessoa da família): 3 em um grupo de WhatsApp e 2 em conversas individuais. **2 testes completos** (V04: monitor; V05: cooktop), com checagem de preço em 3 anúncios reais da OLX para cada item. Tudo registrado em [04-evidencias/](ciclo-2-vende-facil/04-evidencias/), sem nomes nem telefones.
+
+| Anúncio original da V05 (no ar desde 01/10, sem venda) | Depois do Vende Fácil (republicado em 05/10) |
+|---|---|
+| "Cooktop 4 bocas", R$ 230, uma frase de descrição | ![anúncio publicado](ciclo-2-vende-facil/04-evidencias/prints/2026-10-05_V05-anuncio-publicado.png) |
+
+Reação do V04, 3 minutos depois de receber o anúncio: *"Vou postar agora mesmo no mercado livre"* · *"Ficou realmente bom agr"* ([print](ciclo-2-vende-facil/04-evidencias/prints/2026-10-05_reacao-V04.png))
 
 ### Resultados
 | Hipótese | Meta | Resultado | Status |
 |---|---|---|---|
-| H1 | ≥ 60% | [ ] | [ ] |
-| H2 · utilidade | ≥ 4/5 | [ ] | [ ] |
-| H2 · preço justo | ≥ 60% | [ ] | [ ] |
-| **H3 · publicou** | **≥ 40%** | [ ] | [ ] |
+| H1 | ≥ 60% (3 de 5) | **20%** (1 de 5 com item parado espontâneo) | ❌ |
+| H2 · utilidade | ≥ 4/5 | Sem nota (formulário não respondido); os 2 usaram o texto quase sem mudança | ⚠️ |
+| H2 · preço justo | ≥ 60% | V05 adotou o preço sugerido (subiu de R$ 230 para R$ 250); IA ficou 14% abaixo do mercado | ⚠️ |
+| **H3 · publicou** | **≥ 40% (2 de 5)** | **20%** (1 de 5); 1 de 2 entre quem recebeu o anúncio | ❌ |
 
-**Principais padrões:** [3 bullets com citação, ver [sintese.md](ciclo-2-vende-facil/05-analise/sintese.md)]
+**Principais padrões** ([síntese completa](ciclo-2-vende-facil/05-analise/sintese.md)):
+1. **Convite individual funciona, grupo não:** 2 de 2 testes completos vieram de conversas individuais, 0 de 3 do grupo.
+2. **Anunciar não é difícil para quem respondeu.** A dor é anunciar e não vender: *"nao consigo vender"* (V05), *"Tive dificuldade para vender"* (V04).
+3. **Quando o anúncio chega pronto, a ação é rápida:** o V04 respondeu em 3 minutos e a V05 republicou no mesmo dia, com o preço sugerido.
 
 ### Decisão final
-**[PERSEVERAR / AJUSTAR / PIVOTAR / ABANDONAR]**: [justificativa ligada à regra pré-definida]
+**ABANDONAR a hipótese inicial e pivotar o segmento.** Pela regra definida antes do teste, H1 abaixo de 40% leva a abandonar a hipótese, e ela ficou em 20%. O problema "dá trabalho anunciar" não apareceu. Os dados, porém, revelaram outro público com dor concreta e ação imediata: **quem já anuncia e não vende**.
 
-**Próximo passo recomendado:** [ ]
+**Próximo passo recomendado:** novo ciclo de 2 semanas com 10 pessoas que têm anúncio parado há mais de 7 dias, recrutadas individualmente. Oferta: "manda o link do seu anúncio que eu te devolvo uma versão melhor". Métricas: % que atualiza (meta ≥ 50%) e % que vende em até 7 dias.
 
 ---
 
 ## Aprendizados do processo
-- **Confirmado:** [ ]
-- **Contrariado:** [ ]
+- **Confirmado:** convite individual e esforço mínimo (uma foto) geram resposta. Quando o anúncio chega pronto, quem tem a dor age no mesmo dia.
+- **Contrariado:** a ideia de que "anunciar dá trabalho". Quem respondeu acha fácil. A dor real está em **não conseguir vender**. A IA também errou o preço para baixo nos dois casos, o que mostra que a conferência humana é parte do produto.
 - **Sobre o método:** testar barato e rápido permitiu descartar a primeira ideia em 4 dias, sem escrever código.
 
 ## Uso de IA

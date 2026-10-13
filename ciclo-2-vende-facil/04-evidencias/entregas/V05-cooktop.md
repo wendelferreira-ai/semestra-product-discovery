@@ -76,6 +76,12 @@ Fora da comparação: cooktops Philco **de indução** (R$ 650 a R$ 1.600), que 
 | Data / hora | O que aconteceu |
 |---|---|
 | 04/10 22:42 | V05 mandou foto e respostas ([print](../prints/2026-10-04_resposta-V05-cooktop.png)) |
-| [ ] | Anúncio entregue [PREENCHER] |
-| [ ] | Atualizou o anúncio na OLX? [PREENCHER] |
-| [ ] | Vendeu? (bônus) [PREENCHER] |
+| 05/10 | Anúncio entregue pelo WhatsApp |
+| 05/10 17:06 | ✅ **Republicou na OLX** com o título, a descrição e o preço de R$ 250 entregues, e mandou o link ([anúncio](../prints/2026-10-05_V05-anuncio-publicado.png) · [link](../prints/2026-10-05_V05-link-anuncio.png)) |
+| | Vendeu? Não medido até o encerramento |
+
+**Observações:**
+- Ela criou um **anúncio novo** em vez de editar o antigo.
+- Usou o texto **quase sem mudança** e completou os [colchetes] (acendimento automático, bairro).
+- **Subiu o preço** de R$ 230 para R$ 250, como sugerido.
+- A OLX trocou os marcadores "•" por "?". Aprendizado de produto: usar só caracteres simples.

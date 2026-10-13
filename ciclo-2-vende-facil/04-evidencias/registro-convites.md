@@ -2,7 +2,7 @@
 
 | Código | Data / hora | Canal | Evidência | Resposta |
 |---|---|---|---|---|
-| V01, V02, V03 | 04/10/2026 10:33 | Grupo de WhatsApp com 3 amigos | [print](prints/2026-10-04_convite-V01-V02-V03-grupo.png) | V02 (10:35, áudio de 3 s): está na rua, responde ao chegar em casa. V01 (10:42, áudio de 10 s): está numa fila, responde ao chegar em casa [print pendente] |
+| V01, V02, V03 | 04/10/2026 10:33 | Grupo de WhatsApp com 3 amigos | [print](prints/2026-10-04_convite-V01-V02-V03-grupo.png) | V02 (10:35, áudio de 3 s): está na rua, responde ao chegar em casa. V01 (10:42, áudio de 10 s): está numa fila, responde ao chegar em casa. **Nenhum dos três voltou a responder até o encerramento** |
 | V04 | 04/10/2026 10:37 | Conversa individual (amigo) | [convite](prints/2026-10-04_convite-V04.png) · [resposta 1](prints/2026-10-04_resposta-V04.png) · [resposta 2](prints/2026-10-04_resposta-V04-perguntas.png) | 12:32: **não tem nada que queira vender**; se ofereceu para inventar um item. 19:16: mandou a foto do monitor sugerido pelo autor e respondeu: *"Venderia esse monitor, ele está velho já"*, *"Tive dificuldade para vender"*, *"já vendi pelo Mercado Livre, achei uma experiência tranquila"* |
 | V05 | 04/10/2026 10:35 | Conversa individual (família) | [convite](prints/2026-10-04_convite-V05.png) · [resposta 1](prints/2026-10-04_resposta-V05.png) · [resposta 2](prints/2026-10-04_resposta-V05-cooktop.png) | 11:00: está fazendo almoço, responde em seguida. 22:42: mandou a foto de um cooktop Philco 4 bocas: *"quero vender [...] pois nao uso mais e comprei um maior"*, *"nao consigo vender"*, *"ja vendi pela olx e tem uma visibilidade boa"* |
 

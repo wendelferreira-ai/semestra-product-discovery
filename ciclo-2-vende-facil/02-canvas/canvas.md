@@ -36,4 +36,15 @@
 ---
 
 ## Lean Canvas: v2 (pós-teste)
-[PREENCHER depois do experimento: copie a v1 e marque ✅ / ❌ / ✏️ em cada bloco com a evidência]
+| Bloco | v2 | Evidência |
+|---|---|---|
+| **1. Problema** | ✏️ Não é "dá trabalho anunciar". É **anunciar e não vender**: anúncio fraco (título sem marca, descrição curta, sem medidas) | V05: *"nao consigo vender"*, anúncio parado desde 01/10. V04: *"Tive dificuldade para vender"* |
+| **Alternativas atuais** | ✏️ Anunciar sozinho na OLX ou no Mercado Livre, que as pessoas já sabem usar | V04 e V05 já tinham vendido online |
+| **2. Segmento** | ✏️ **Quem já tem anúncio ativo e não vende** (não "quem tem item parado") | 1 de 5 tinha item parado espontâneo; a V05 já anunciava |
+| **3. Proposta de valor** | ✏️ "Seu anúncio tá parado? Manda o link que eu te devolvo uma versão que vende." | V05 republicou no mesmo dia |
+| **4. Solução** | ✅ Título, descrição e preço conferido em anúncios reais. ✏️ Incluir medidas e modelo; evitar caracteres especiais | Textos usados quase sem mudança; OLX trocou "•" por "?" |
+| **5. Canais** | ✏️ Contato **individual**. Grupo não funcionou | 2 de 2 completos no individual, 0 de 3 no grupo |
+| **6. Receita** | ⚪ Não validado | Formulário não respondido |
+| **7. Custos** | ✅ Conferência humana do preço é necessária | IA ficou 14% abaixo do mercado |
+| **8. Métricas-chave** | ✏️ % que **atualiza** o anúncio e % que **vende** em 7 dias | Métrica adaptada na V05 |
+| **9. Vantagem injusta** | ⚪ Continua inexistente | |

@@ -7,7 +7,9 @@
 | 01 a 03/10 | Nenhuma inscrição nem interação |
 | 04/10 | Leitura final: **0 de 29** → decisão de **pivotar** |
 
-## Ciclo 2: Vende Fácil (3 dias)
+## Ciclo 2: Vende Fácil (encerrado em 05/10)
+
+> Encerrado antes do previsto por causa do prazo, com 2 testes completos. Resultado e decisão: [síntese](ciclo-2-vende-facil/05-analise/sintese.md).
 
 | Dia | Data | Tarefas | Saída |
 |---|---|---|---|
