@@ -2,7 +2,7 @@
 
 > Dois ciclos de hipótese → experimento → evidência → decisão em **uma semana**. O primeiro produto não gerou nenhum interesse e foi pivotado. O segundo foi testado com pessoas reais medindo **ação**, não opinião, e revelou que o problema estava em outro lugar.
 
-**Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 a 07/10/2026
+**Autor:** Wendel Macedo Ferreira · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 a 07/10/2026
 **🎥 Vídeo pitch:** [LINK]
 
 ---
@@ -82,6 +82,8 @@ Reação do V04, 3 minutos depois de receber o anúncio: *"Vou postar agora mesm
 
 ### Decisão final
 **ABANDONAR a hipótese inicial e pivotar o segmento.** Pela regra definida antes do teste, H1 abaixo de 40% leva a abandonar a hipótese, e ela ficou em 20%. O problema "dá trabalho anunciar" não apareceu. Os dados, porém, revelaram outro público com dor concreta e ação imediata: **quem já anuncia e não vende**.
+
+**A baixa adesão também é um resultado.** Mesmo sendo amigos e família, mesmo com um serviço gratuito que pedia só uma foto, 3 dos 5 convidados não responderam às perguntas em 2 dias de espera, e 2 deles tinham prometido responder "quando chegar em casa". Pessoas com uma dor real costumam responder rápido, como fez a V05. O silêncio indica que, para esse público, ter coisas paradas em casa não é um problema urgente. Por isso o autor confirmou a decisão de abandonar a hipótese em vez de insistir com mais convites para o mesmo perfil.
 
 **Próximo passo recomendado:** novo ciclo de 2 semanas com 10 pessoas que têm anúncio parado há mais de 7 dias, recrutadas individualmente. Oferta: "manda o link do seu anúncio que eu te devolvo uma versão melhor". Métricas: % que atualiza (meta ≥ 50%) e % que vende em até 7 dias.
 

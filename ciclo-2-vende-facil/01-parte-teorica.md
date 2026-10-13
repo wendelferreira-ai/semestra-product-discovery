@@ -1,7 +1,7 @@
 # Ciclo 2 · Parte Teórica: Hipóteses e Estratégia de Validação
 
 **Produto (nome provisório):** Vende Fácil: manda a foto de algo que quer vender e recebe o preço sugerido e o anúncio pronto
-**Autor:** [SEU NOME] · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Data:** 04/10/2026
+**Autor:** Wendel Macedo Ferreira · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Data:** 04/10/2026
 
 > Origem: pivô decidido ao fim do [Ciclo 1 (Semestra)](../ciclo-1-semestra/05-resultado-e-decisao.md). Este documento é escrito e **congelado antes** do experimento.
 

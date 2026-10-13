@@ -1,6 +1,10 @@
 # Formulário de Avaliação: Vende Fácil (~1 min)
 
-**🔗 Formulário publicado:** https://docs.google.com/forms/d/e/1FAIpQLSfUbuJoTZWMkiPbGpUMJrCWr6q9vn7py0sbsn5FFOTJSrhgtA/viewform
+**🔗 Versão curta (3 perguntas, criada no encerramento):** https://docs.google.com/forms/d/e/1FAIpQLSd5wy31NZ1iYAYs6Cv0PH0CgX1aL9nxsF7ipFHk9o4b3x4_7g/viewform
+
+> O formulário completo (11 perguntas) não teve respostas. A versão curta pede só o que falta para a H2: nome, utilidade (1 a 5, de "nada útil" a "muito útil") e "o preço sugerido pareceu…" (Muito baixo / Justo / Muito alto / Não sei dizer). As 3 são obrigatórias.
+
+**🔗 Formulário completo (11 perguntas):** https://docs.google.com/forms/d/e/1FAIpQLSfUbuJoTZWMkiPbGpUMJrCWr6q9vn7py0sbsn5FFOTJSrhgtA/viewform
 
 Cada pergunta está ligada a uma hipótese, o que permite a comparação no final.
 

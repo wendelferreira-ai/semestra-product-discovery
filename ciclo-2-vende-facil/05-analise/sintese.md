@@ -77,6 +77,8 @@ Aplicando a regra definida antes do experimento em [01-parte-teorica.md §6](../
 
 **Justificativa:** o problema como foi formulado não apareceu. Quem respondeu sabe anunciar e acha fácil. Mas os dados mostraram outra dor, mais concreta: **o anúncio está no ar e não vende**. E nesse caso houve ação imediata: a V05 republicou com o texto e o preço sugeridos no mesmo dia. Perseverar ou ajustar a solução não faz sentido para o público errado. O próximo passo é testar a mesma solução com o público certo.
 
+**A baixa adesão reforça a decisão:** em 2 dias de espera, 3 dos 5 convidados não responderam às perguntas, mesmo sendo pessoas próximas e mesmo com um serviço gratuito. Para esse público, o problema não é urgente. Decisão confirmada pelo autor (ver [diario-ia.md](../../diario-ia.md)).
+
 **Próximo experimento recomendado:**
 - **Público:** pessoas com anúncio ativo há mais de 7 dias na OLX ou no Marketplace, sem venda.
 - **Oferta:** "Seu anúncio tá parado? Manda o link que eu te devolvo uma versão melhor."
