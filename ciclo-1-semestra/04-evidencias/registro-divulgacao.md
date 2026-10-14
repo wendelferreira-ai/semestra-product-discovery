@@ -9,7 +9,7 @@ Textos usados: [mensagens-whatsapp.md](../03-experimento/mensagens-whatsapp.md)
 |---|---|---|---|---|---|
 | D1 | 30/09/2026 12:44 | Grupo de WhatsApp da turma de IA (faculdade) | 30 membros (29 além do autor), [print](prints/2026-09-30_grupo-turma-30-membros.png) | Post completo (seção 1), com prévia da página gerada pelo WhatsApp | [print](prints/2026-09-30_divulgacao-grupo-turma.png) |
 
-> Nos prints publicados, telefones e e-mails de terceiros não aparecem. Originais ficam em `brutos/` (fora do Git).
+> Os prints são **telas reais e inteiras** do WhatsApp, do Google Forms e da OLX, com nomes de grupos e pessoas visíveis para comprovar a autenticidade. Só ficam cobertos ou borrados dados de terceiros que não fazem parte do teste: telefones, e-mail, comprovante de Pix, mensagens pessoais anteriores, vídeos pessoais e reflexos em fotos. Os originais sem nenhuma edição ficam em `brutos/` (fora do Git).
 
 ## Leituras de inscrições
 

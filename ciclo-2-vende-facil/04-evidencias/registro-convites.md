@@ -6,7 +6,7 @@
 | V04 | 04/10/2026 10:37 | Conversa individual (amigo) | [convite](prints/2026-10-04_convite-V04.png) · [resposta 1](prints/2026-10-04_resposta-V04.png) · [resposta 2](prints/2026-10-04_resposta-V04-perguntas.png) | 12:32: **não tem nada que queira vender**; se ofereceu para inventar um item. 19:16: mandou a foto do monitor sugerido pelo autor e respondeu: *"Venderia esse monitor, ele está velho já"*, *"Tive dificuldade para vender"*, *"já vendi pelo Mercado Livre, achei uma experiência tranquila"* |
 | V05 | 04/10/2026 10:35 | Conversa individual (família) | [convite](prints/2026-10-04_convite-V05.png) · [resposta 1](prints/2026-10-04_resposta-V05.png) · [resposta 2](prints/2026-10-04_resposta-V05-cooktop.png) | 11:00: está fazendo almoço, responde em seguida. 22:42: mandou a foto de um cooktop Philco 4 bocas: *"quero vender [...] pois nao uso mais e comprei um maior"*, *"nao consigo vender"*, *"ja vendi pela olx e tem uma visibilidade boa"* |
 
-> Nos prints publicados aparecem só as mensagens do autor e as respostas, com nomes, fotos de perfil e telefones cobertos. Em fotos de itens, reflexos da pessoa e do ambiente são borrados. Os originais ficam em `brutos/` (fora do Git).
+> Os prints são **telas reais e inteiras** do WhatsApp, do Google Forms e da OLX, com nomes de grupos e pessoas visíveis para comprovar a autenticidade. Só ficam cobertos ou borrados dados de terceiros que não fazem parte do teste: telefones, e-mail, comprovante de Pix, mensagens pessoais anteriores, vídeos pessoais e reflexos em fotos. Os originais sem nenhuma edição ficam em `brutos/` (fora do Git).
 
 ## Mensagem enviada (versão do autor)
 > [saudação], to fazendo um trabalho de faculdade, de um produto ("Vende Fácil") a ideia é você mandar a foto de um produto que você queira vender e eu te devolvo o preço sugerido + título + descrição do anúncio
@@ -41,4 +41,4 @@ Enviado depois do encerramento dos testes, para tentar obter a nota de utilidade
 | V04 | 5 | Justo |
 | V05 | 5 | Justo |
 
-Evidência: [resumo das respostas, parte 1](prints/form-curto-respostas-1.png) · [parte 2](prints/form-curto-respostas-2.png). Nos prints publicados, os nomes foram trocados pelos códigos.
+Evidência: [resumo das respostas, parte 1](prints/form-curto-respostas-1.png) · [parte 2](prints/form-curto-respostas-2.png).

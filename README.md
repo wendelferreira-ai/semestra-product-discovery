@@ -59,7 +59,7 @@ Nenhuma linha de código. O autor faz o papel do produto:
 4. Formulário de 1 minuto → [perguntas](ciclo-2-vende-facil/03-experimento/formulario-avaliacao.md)
 
 ### Evidências
-**5 pessoas reais** convidadas em 04/10 (4 amigos e 1 pessoa da família): 3 em um grupo de WhatsApp e 2 em conversas individuais. **2 testes completos** (V04: monitor; V05: cooktop), com checagem de preço em 3 anúncios reais da OLX para cada item. Tudo registrado em [04-evidencias/](ciclo-2-vende-facil/04-evidencias/), sem nomes nem telefones.
+**5 pessoas reais** convidadas em 04/10 (4 amigos e 1 pessoa da família): 3 em um grupo de WhatsApp e 2 em conversas individuais. **2 testes completos** (V04: monitor; V05: cooktop), com checagem de preço em 3 anúncios reais da OLX para cada item. Tudo registrado em [04-evidencias/](ciclo-2-vende-facil/04-evidencias/), com os **prints reais das conversas** (só telefones, Pix e mensagens pessoais anteriores ficam cobertos).
 
 | Anúncio original da V05 (no ar desde 01/10, sem venda) | Depois do Vende Fácil (republicado em 05/10) |
 |---|---|
@@ -103,7 +103,6 @@ A IA apoiou a geração de ideias (inclusive as do pivô), a estruturação de h
 README.md                  O case completo
 CRONOGRAMA.md              Plano da semana (incluindo o pivô)
 diario-ia.md               Como a IA foi usada, e onde a decisão foi humana
-06-pitch/                  Roteiro do vídeo
 ciclo-1-semestra/          Hipóteses, canvas, landing, evidências e decisão de pivotar
 ciclo-2-vende-facil/       Hipóteses, canvas, concierge, evidências e síntese
 ```
