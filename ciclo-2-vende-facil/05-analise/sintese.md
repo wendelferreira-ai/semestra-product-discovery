@@ -89,7 +89,7 @@ Aplicando a regra definida antes do experimento em [01-parte-teorica.md §6](../
 ## 7. Limitações
 - **Amostra muito pequena:** 5 convidados, 2 testes completos. Os resultados indicam direção, não comprovam nada.
 - **Viés de simpatia:** participantes são pessoas próximas. Por isso o peso maior está na ação (publicar), não na opinião.
-- **Formulário de avaliação não foi respondido:** H2 e H3c ficaram sem dado de nota e de disposição a pagar.
+- **Formulário de avaliação não foi respondido:** H2 e H3c ficaram sem dado de nota e de disposição a pagar. Uma versão curta, com 3 perguntas, foi enviada a todos depois do encerramento ([registro](../04-evidencias/registro-convites.md)).
 - **Publicação do V04 não confirmada:** ele disse que ia postar, mas não mandou print. Contou como "não publicou".
 - **Janela curta:** não deu para medir se os itens venderam.
 - **Desvios de protocolo** (detalhados em [registro-convites.md](../04-evidencias/registro-convites.md)): solução apresentada junto com as perguntas, 3 convites em grupo, item sugerido ao V04 e métrica adaptada para a V05.

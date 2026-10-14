@@ -24,3 +24,14 @@ Registrados para transparência e considerados na análise:
 2. **Três dos cinco convites foram feitos em um grupo**, e não individualmente como previa o aprendizado do Ciclo 1. É um grupo pequeno, de amigos próximos, bem diferente do grupo de 30 pessoas da turma. Vale comparar a taxa de resposta do grupo com a das conversas individuais.
 3. **O autor sugeriu um item ao V04** (12:33), depois que ele disse não ter nada para vender e se ofereceu para inventar algo. Para a H1, o V04 conta como **"não tem item parado"**, que foi a resposta espontânea dele. Se ele seguir com o monitor, o teste entra marcado como **item sugerido pelo autor**, e essa marcação é levada em conta na leitura da H3.
 4. **A métrica da H3 foi adaptada para a V05.** Na checagem de preço, o autor descobriu que ela **já tinha anunciado o cooktop na OLX** em 01/10 e não tinha vendido. Para ela, "publicar" não mede nada novo, então a ação observada passa a ser **atualizar o anúncio com a versão entregue**. Na análise, ela entra separada como um segmento diferente: quem já anuncia, mas não vende.
+
+## Envio do formulário curto de avaliação (3 perguntas)
+Enviado depois do encerramento dos testes, para tentar obter a nota de utilidade e a percepção de preço (H2).
+
+| Para | Quando | Evidência | Reação |
+|---|---|---|---|
+| V04 | à noite, às 22:27 | [print](prints/form-curto-envio-V04.png) | Respondeu na manhã seguinte com um áudio de 10 s às 07:52 [PREENCHER: o que disse] |
+| V05 | à noite, às 22:27 | [print](prints/form-curto-envio-V05.png) | [PREENCHER] |
+| V01, V02, V03 (grupo) | na manhã seguinte, às 08:34 | [print](prints/form-curto-envio-V01-V02-V03.png) | [PREENCHER] |
+
+**Respostas recebidas no formulário:** [PREENCHER: número de respostas, conferido no Google Forms]
