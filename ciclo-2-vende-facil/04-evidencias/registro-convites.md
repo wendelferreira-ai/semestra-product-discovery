@@ -30,8 +30,15 @@ Enviado depois do encerramento dos testes, para tentar obter a nota de utilidade
 
 | Para | Quando | Evidência | Reação |
 |---|---|---|---|
-| V04 | à noite, às 22:27 | [print](prints/form-curto-envio-V04.png) | Respondeu na manhã seguinte com um áudio de 10 s às 07:52 [PREENCHER: o que disse] |
-| V05 | à noite, às 22:27 | [print](prints/form-curto-envio-V05.png) | [PREENCHER] |
-| V01, V02, V03 (grupo) | na manhã seguinte, às 08:34 | [print](prints/form-curto-envio-V01-V02-V03.png) | [PREENCHER] |
+| V04 | à noite, às 22:27 | [print](prints/form-curto-envio-V04.png) | Áudio de 10 s às 07:52 e respondeu o formulário |
+| V05 | à noite, às 22:27 | [print](prints/form-curto-envio-V05.png) | Respondeu o formulário (duas vezes) |
+| V01, V02, V03 (grupo) | na manhã seguinte, às 08:34 | [print](prints/form-curto-envio-V01-V02-V03.png) | Nenhuma resposta |
 
-**Respostas recebidas no formulário:** [PREENCHER: número de respostas, conferido no Google Forms]
+**Respostas recebidas no formulário:** 3 envios de **2 pessoas**. A V05 respondeu duas vezes, com as mesmas respostas, e a duplicata foi descartada. Ninguém do grupo (V01 a V03) respondeu.
+
+| Participante | Utilidade (1 a 5) | O preço sugerido pareceu… |
+|---|---|---|
+| V04 | 5 | Justo |
+| V05 | 5 | Justo |
+
+Evidência: [resumo das respostas, parte 1](prints/form-curto-respostas-1.png) · [parte 2](prints/form-curto-respostas-2.png). Nos prints publicados, os nomes foram trocados pelos códigos.

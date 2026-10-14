@@ -71,14 +71,15 @@ Reação do V04, 3 minutos depois de receber o anúncio: *"Vou postar agora mesm
 | Hipótese | Meta | Resultado | Status |
 |---|---|---|---|
 | H1 | ≥ 60% (3 de 5) | **20%** (1 de 5 com item parado espontâneo) | ❌ |
-| H2 · utilidade | ≥ 4/5 | Sem nota (formulário não respondido); os 2 usaram o texto quase sem mudança | ⚠️ |
-| H2 · preço justo | ≥ 60% | V05 adotou o preço sugerido (subiu de R$ 230 para R$ 250); IA ficou 14% abaixo do mercado | ⚠️ |
+| H2 · utilidade | ≥ 4/5 | **5 de 5** nos 2 que testaram (V04 e V05); os 2 usaram o texto quase sem mudança | ✅ entre quem testou |
+| H2 · preço justo | ≥ 60% | **2 de 2** marcaram "Justo"; a V05 adotou o preço sugerido (subiu de R$ 230 para R$ 250); o preço da IA, antes da conferência, ficou 14% abaixo do mercado | ✅ entre quem testou |
 | **H3 · publicou** | **≥ 40% (2 de 5)** | **20%** (1 de 5); 1 de 2 entre quem recebeu o anúncio | ❌ |
 
 **Principais padrões** ([síntese completa](ciclo-2-vende-facil/05-analise/sintese.md)):
 1. **Convite individual funciona, grupo não:** 2 de 2 testes completos vieram de conversas individuais, 0 de 3 do grupo.
 2. **Anunciar não é difícil para quem respondeu.** A dor é anunciar e não vender: *"nao consigo vender"* (V05), *"Tive dificuldade para vender"* (V04).
 3. **Quando o anúncio chega pronto, a ação é rápida:** o V04 respondeu em 3 minutos e a V05 republicou no mesmo dia, com o preço sugerido.
+4. **Quem testou aprovou:** nota **5 de 5** e preço "Justo" nos 2 casos ([respostas do formulário](ciclo-2-vende-facil/04-evidencias/prints/form-curto-respostas-2.png)). A solução funciona; o problema estava no público.
 
 ### Decisão final
 **ABANDONAR a hipótese inicial e pivotar o segmento.** Pela regra definida antes do teste, H1 abaixo de 40% leva a abandonar a hipótese, e ela ficou em 20%. O problema "dá trabalho anunciar" não apareceu. Os dados, porém, revelaram outro público com dor concreta e ação imediata: **quem já anuncia e não vende**.
@@ -90,7 +91,7 @@ Reação do V04, 3 minutos depois de receber o anúncio: *"Vou postar agora mesm
 ---
 
 ## Aprendizados do processo
-- **Confirmado:** convite individual e esforço mínimo (uma foto) geram resposta. Quando o anúncio chega pronto, quem tem a dor age no mesmo dia.
+- **Confirmado:** convite individual e esforço mínimo (uma foto) geram resposta. Quando o anúncio chega pronto, quem tem a dor age no mesmo dia, e avalia a solução com nota máxima (5 de 5, n = 2).
 - **Contrariado:** a ideia de que "anunciar dá trabalho". Quem respondeu acha fácil. A dor real está em **não conseguir vender**. A IA também errou o preço para baixo nos dois casos, o que mostra que a conferência humana é parte do produto.
 - **Sobre o método:** testar barato e rápido permitiu descartar a primeira ideia em 4 dias, sem escrever código.
 

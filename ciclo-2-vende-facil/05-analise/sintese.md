@@ -27,8 +27,8 @@ Perfil: 4 amigos e 1 pessoa da família. Itens: monitor de 19" com suporte quebr
 | Hipótese | Meta (5 participantes) | Resultado | Status |
 |---|---|---|---|
 | H1 · Item parado + motivo = preço/anúncio/trabalho | ≥ 3 de 5 | **1 de 5** tem item parado espontaneamente (V05). Nenhum dos dois que responderam citou preço ou trabalho de anunciar | ❌ |
-| H2 · Utilidade | média ≥ 4/5 | Formulário não respondido. Sinais de comportamento: os 2 usaram o texto quase sem mudança; V04: *"Ficou realmente bom agr"* | ⚠️ sem nota, sinais positivos |
-| H2 · Preço "justo" | ≥ 3 de 5 | 1 de 1 com evidência: a V05 **adotou o preço sugerido**, inclusive subindo de R$ 230 para R$ 250 | ⚠️ amostra mínima |
+| H2 · Utilidade | média ≥ 4/5 | **Nota 5 de 5 dos 2 que testaram** (V04 e V05, no formulário curto). Bate com o comportamento: os 2 usaram o texto quase sem mudança; V04: *"Ficou realmente bom agr"* | ✅ entre quem testou (n = 2) |
+| H2 · Preço "justo" | ≥ 3 de 5 | **2 de 2 que testaram marcaram "Justo"**, e a V05 **adotou o preço sugerido**, subindo de R$ 230 para R$ 250. Pela meta sobre os 5 convidados, ficou em 2 de 5 | ⚠️ ✅ entre quem testou, ❌ sobre os 5 |
 | H2 · IA × mercado | referência | Ponto médio da IA ficou **14% abaixo** da média de 3 anúncios reais (−18% no monitor, −10% no cooktop) | ⚠️ IA subestima |
 | **H3 · Publicou** | **≥ 2 de 5** | **1 de 5** com evidência (V05). Considerando só quem recebeu o anúncio: **1 de 2** | ❌ meta não atingida |
 | H3b · 2º item espontâneo | ≥ 2 de 5 | 0 de 5 | ❌ |
@@ -49,7 +49,8 @@ Perfil: 4 amigos e 1 pessoa da família. Itens: monitor de 19" com suporte quebr
 2. **O problema não é "dar trabalho anunciar".** Quem respondeu já sabe anunciar e acha fácil. A dor real é **anunciar e não vender**: *"nao consigo vender"*, *"tive dificuldade para vender"*.
 3. **Quando o anúncio pronto chega, a reação é rápida.** V04 respondeu 3 minutos depois da entrega (*"Vou postar agora mesmo"*). V05 republicou com o texto novo no mesmo dia e aceitou subir o preço.
 4. **Segmento novo: quem já anuncia, mas não vende.** O anúncio original da V05 tinha título sem marca, uma frase de descrição e preço 17% abaixo do mercado, e estava parado havia 4 dias. Esse público já tem o hábito de vender e já sente a dor.
-5. **A IA precisa de um humano no circuito.** Ela subestimou o preço nos dois casos, e o modelo exato do monitor só foi identificado porque o autor pesquisou a página do fabricante.
+5. **Quem testou aprovou sem ressalvas:** nota 5 de 5 e preço "Justo" nos 2 casos. A solução funciona para quem chega até ela. O gargalo está antes, no problema e no público.
+6. **A IA precisa de um humano no circuito.** Ela subestimou o preço nos dois casos, e o modelo exato do monitor só foi identificado porque o autor pesquisou a página do fabricante.
 
 ### Surpresas
 - O anúncio antigo da V05 só apareceu porque o autor fez a checagem de preço na OLX. Sem a etapa manual, essa descoberta não teria acontecido.
@@ -89,7 +90,7 @@ Aplicando a regra definida antes do experimento em [01-parte-teorica.md §6](../
 ## 7. Limitações
 - **Amostra muito pequena:** 5 convidados, 2 testes completos. Os resultados indicam direção, não comprovam nada.
 - **Viés de simpatia:** participantes são pessoas próximas. Por isso o peso maior está na ação (publicar), não na opinião.
-- **Formulário de avaliação não foi respondido:** H2 e H3c ficaram sem dado de nota e de disposição a pagar. Uma versão curta, com 3 perguntas, foi enviada a todos depois do encerramento ([registro](../04-evidencias/registro-convites.md)).
+- **Formulário de avaliação:** o completo não teve respostas. A versão curta, com 3 perguntas, teve 3 envios de 2 pessoas (a V05 respondeu duas vezes, e a duplicata foi descartada). As notas vêm só de quem testou, com n = 2, e a disposição a pagar (H3c) ficou sem dado ([respostas](../04-evidencias/prints/form-curto-respostas-1.png)).
 - **Publicação do V04 não confirmada:** ele disse que ia postar, mas não mandou print. Contou como "não publicou".
 - **Janela curta:** não deu para medir se os itens venderam.
 - **Desvios de protocolo** (detalhados em [registro-convites.md](../04-evidencias/registro-convites.md)): solução apresentada junto com as perguntas, 3 convites em grupo, item sugerido ao V04 e métrica adaptada para a V05.
