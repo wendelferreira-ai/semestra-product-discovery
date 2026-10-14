@@ -36,4 +36,15 @@
 ---
 
 ## Lean Canvas: v2 (pós-teste)
-[PREENCHER após o experimento: copie a tabela v1 e marque ✅ / ❌ / ✏️ em cada bloco com a evidência que justifica]
+O Ciclo 1 terminou **sem usuários no teste** (0 inscrições em 29 pessoas alcançadas), então a maior parte do canvas ficou **sem dados para confirmar ou refutar**. O único bloco com evidência foi o de canais.
+
+| Bloco | v2 | Evidência |
+|---|---|---|
+| **1. Problema** | ⚪ Não testado | Ninguém chegou à entrevista |
+| **2. Segmento de clientes** | ⚪ Não testado | Nenhum universitário se inscreveu |
+| **3. Proposta de valor** | ⚪ Não testada | 0 inscrições |
+| **4. Solução** | ⚪ Não testada | Nenhum concierge executado |
+| **5. Canais** | ❌ **Post em grupo de turma não recrutou ninguém** | 0 inscrições, 0 reações em 4 dias ([registro](../04-evidencias/registro-divulgacao.md)) |
+| **6 a 9. Receita, custos, métricas e vantagem** | ⚪ Não testados | |
+
+**Decisão:** pivotar ([resultado e decisão](../05-resultado-e-decisao.md)). O aprendizado sobre canais virou regra no Ciclo 2: convite individual.

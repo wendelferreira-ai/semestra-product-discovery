@@ -3,7 +3,7 @@
 > Dois ciclos de hipótese → experimento → evidência → decisão em **uma semana**. O primeiro produto não gerou nenhum interesse e foi pivotado. O segundo foi testado com pessoas reais medindo **ação**, não opinião, e revelou que o problema estava em outro lugar.
 
 **Autor:** Wendel Macedo Ferreira · **Disciplina:** Metodologias Ágeis e Validação de Produtos · **Período:** 30/09 a 07/10/2026
-**🎥 Vídeo pitch:** [LINK]
+**🎥 Vídeo pitch (3:58):** [https://youtu.be/L5ObLB5pzHE](https://youtu.be/L5ObLB5pzHE)
 
 ---
 
@@ -16,6 +16,20 @@
 | **Experimento** | Landing page + formulário, divulgados em grupo da turma | Concierge (Mágico de Oz) por WhatsApp |
 | **Resultado** | **0 inscrições em 29 pessoas, em 4 dias** | **1 de 5 tinha item parado; 1 de 2 que receberam o anúncio publicou no mesmo dia** |
 | **Decisão** | **Pivotar** | **Abandonar a hipótese e pivotar para quem já anuncia e não vende** |
+
+## Validação com usuários reais
+
+Todas as conclusões vêm de **pessoas reais**, com as conversas registradas em prints das telas originais (só telefones, Pix e mensagens pessoais anteriores ficam cobertos).
+
+| | Ciclo 1: Semestra | Ciclo 2: Vende Fácil |
+|---|---|---|
+| **Potenciais usuários reais alcançados** | **29** colegas da turma (grupo de WhatsApp com 30 membros) | **5** convidados: 4 amigos e 1 pessoa da família |
+| **Reagiram** | 0 | **4 de 5** |
+| **Completaram o teste** (problema → anúncio entregue) | 0 | **2 de 5** |
+| **Avaliaram no formulário** | 0 | **2**, ambos com nota **5 de 5** e preço **"Justo"** |
+| **Evidências** | [prints e registro](ciclo-1-semestra/04-evidencias/) | [prints, planilha, entregas e respostas](ciclo-2-vende-facil/04-evidencias/) |
+
+**Ao todo, 34 potenciais usuários reais foram alcançados nos dois ciclos.** No Ciclo 2, os 5 convidados atendem ao mínimo da proposta. A baixa adesão (3 dos 5 não responderam às perguntas mesmo após 2 dias) **não foi descartada: foi tratada como dado** e pesou na decisão final, porque mostra que o problema não é urgente para esse público.
 
 ---
 
